@@ -11,8 +11,12 @@ draft: false
 :   Showing of flausen research residency about smell.
 :   By [die apokalyptische tänzerin*nen](https://www.apocalypse.dance/) and [Charlotte Eifler](http://charlotteeifler.works/).  
 
+![Kunst auf Rädern](/upcoming/ambra.png)
+
 &nbsp;
 
 **20.-22.08.2020, Art on Wheels, Stuttgart and surrounding areas, DE**
 :   Nine mobile concerts and perofrmances in three days.
 :   A project by [InterAKT Initiative e.V.](https://interakt-initiative.com/), funded through Kultur Sommer 2020.
+
+![Kunst auf Rädern](/upcoming/kur.gif)
