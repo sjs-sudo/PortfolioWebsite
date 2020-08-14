@@ -1,0 +1,90 @@
+# Default language if you have a multi-language setup
+DefaultContentLanguage = "en"
+
+baseURL = "https://jasmin-schaedler.com"
+theme = "amperage"
+pygmentsUseClasses = true
+
+# Number of posts shown per page
+ paginate = 1 
+
+# Language sections
+[languages]
+    [languages.en]
+        contentDir = "content"
+        languageName = "English"
+        languageCode = "en"
+        title = "Jasmin Schaedler"
+        description = "Jasmin Schaedler Portfolio Website"
+        weight = 1
+    [languages.de]
+        contentDir = "content/german"
+        languageName = "Deutsch"
+        languageCode = "de"
+        title = "Jasmin Schaedler"
+        description = "Jasmin Schaedler Portfolio Website"
+        weight = 2
+
+# Menu elements
+sectionPagesMenu = "main"
+[menu]
+     [[menu.main]]
+    identifier = "home"
+    name = "HOME"
+    url = "/"
+    weight = 1
+
+        [[menu.main]]
+    identifier = "about"
+    name = "ABOUT"
+    url = "/en/about/"
+    weight = 2
+
+        [[menu.main]]
+    identifier = "upcoming"
+    name = "UPCOMING"
+    url = "/en/upcoming/"
+    weight = 3
+
+    [[menu.main]]
+    identifier = "projects"
+    name = "PROJECTS"
+    url = "/en/projects/"
+    weight = 4
+
+        [[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "/en/cv/"
+    weight = 5
+
+
+# Enable only tags taxonomy
+[taxonomies]
+    tag = "tags"
+
+[params]
+    copyright = "Jasmin Schädler / Amperage" # Name shown on footer copyright
+    themeColor = "#333" # Theme color displayed on mobile browsers
+
+    # Default AMP components for the whole site
+    ampElements = ["amp-analytics", "amp-social-share", "amp-install-serviceworker", "amp-iframe"]
+
+    # Google Analytics code
+    googleAnalytics = "UA-128498798-1"
+
+    # Adsense publisher code
+    adsensePublisher = "ca-pub-123456789"
+
+    # Social sites for metatags
+    facebookSite = "sabinajasmin"
+    instagramSite = "fraumitlandschaft"
+
+    # Structured data elements
+    socialProfiles = ["https://www.facebook.com/sabinajasmin","https://www.instagram.com/fraumitlandschaft/"]
+
+    publisherName = "amperage"
+    publisherLogo = "/logo-amp-article.png"
+    publisherLogoWidth = 600
+    publisherLogoHeight = 60
+
