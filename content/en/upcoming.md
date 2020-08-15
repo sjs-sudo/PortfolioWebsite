@@ -11,7 +11,7 @@ draft: false
 :   Showing of flausen research residency about smell.
 :   By [die apokalyptische tänzerin*nen](https://www.apocalypse.dance/) and [Charlotte Eifler](http://charlotteeifler.works/).  
 
-![Kunst auf Rädern](/upcoming/ambra.png)
+![Ambra](/upcoming/ambra.png)
 
 &nbsp;
 
@@ -19,4 +19,4 @@ draft: false
 :   Nine mobile concerts and perofrmances in three days.
 :   A project by [InterAKT Initiative e.V.](https://interakt-initiative.com/), funded through Kultur Sommer 2020.
 
-![Kunst auf Rädern](/upcoming/kur.gif)
+![Kunst auf Rädern, © Inga Ruxton](/upcoming/kur.gif)

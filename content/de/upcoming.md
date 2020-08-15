@@ -11,7 +11,7 @@ draft: false
 :   Showing der [*flausen Residenz*](https://flausen.plus/residenz) zum Thema Geruch.
 :   Von [die apokalyptische tänzerin*nen](https://www.apocalypse.dance/) und [Charlotte Eifler](http://charlotteeifler.works/).  
 
-![Kunst auf Rädern](/upcoming/ambra.png)
+![Ambra](/upcoming/ambra.png)
 
 &nbsp;
 
@@ -19,4 +19,4 @@ draft: false
 :   Neun mobile Konzerte und Performances in drei Tagen. 
 :   Ein Projekt von [InterAKT Initiative e.V.](https://interakt-initiative.com/), fgefördert durch Kultur Sommer 2020.
 
-![Kunst auf Rädern](/upcoming/kur.gif)
+![Kunst auf Rädern, © Inga Ruxton](/upcoming/kur.gif)

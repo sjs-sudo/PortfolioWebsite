@@ -26,7 +26,7 @@ pygmentsUseClasses = true
         weight = 2
 
 # Menu elements
-sectionPagesMenu = "main"
+
 [menu]
      [[menu.main]]
     identifier = "home"
@@ -87,4 +87,7 @@ sectionPagesMenu = "main"
     publisherLogo = "/logo-amp-article.png"
     publisherLogoWidth = 600
     publisherLogoHeight = 60
+
+[markup]
+    defaultMarkdownHandler = "blackfriday"
 
