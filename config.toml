@@ -1,7 +1,7 @@
 # Default language if you have a multi-language setup
 DefaultContentLanguage = "en"
 
-baseURL = ""
+baseURL = "jasmin-schaedler.com"
 theme = "amperage"
 pygmentsUseClasses = true
 
@@ -31,7 +31,7 @@ pygmentsUseClasses = true
      [[menu.main]]
     identifier = "home"
     name = "HOME"
-    url = "/"
+    url = "/en/"
     weight = 1
 
         [[menu.main]]
@@ -84,10 +84,9 @@ pygmentsUseClasses = true
     socialProfiles = ["https://www.facebook.com/sabinajasmin","https://www.instagram.com/fraumitlandschaft/"]
 
     publisherName = "amperage"
-    publisherLogo = "/logo-amp-article.png"
+    publisherLogo = "/logo.png"
     publisherLogoWidth = 600
     publisherLogoHeight = 60
 
-[markup]
-    defaultMarkdownHandler = "blackfriday"
+
 
