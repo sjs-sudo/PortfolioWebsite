@@ -58,6 +58,12 @@ pygmentsUseClasses = true
     url = "/cv/"
     weight = 5
 
+        [[menu.main]]
+    identifier = "imprint"
+    name = "IMPRINT"
+    url = "/imprint/"
+    weight = 5
+
 
 # Enable only tags taxonomy
 [taxonomies]
