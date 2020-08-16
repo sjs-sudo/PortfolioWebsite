@@ -14,4 +14,3 @@ Jasmin Schädler
 Kontakt
 :   Telefon: 0151/ 24175429 
 :   E-Mail: hello@jasmin-schaedler.com
-
