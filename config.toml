@@ -84,7 +84,7 @@ pygmentsUseClasses = true
 
     [[languages.de.menu.main]]
     identifier = "projects"
-    name = "Projekte"
+    name = "PROJEKTE"
     url = "/de/projects"
     weight = 4
 
@@ -96,7 +96,7 @@ pygmentsUseClasses = true
 
     [[languages.de.menu.main]]
     identifier = "imprint"
-    name = "Impressum"
+    name = "IMPRESSUM"
     url = "/de/imprint"
     weight = 6
 
