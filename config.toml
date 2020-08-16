@@ -67,37 +67,37 @@ pygmentsUseClasses = true
     [[languages.de.menu.main]]
     identifier = "home"
     name = "HOME"
-    url = "/de"
+    url = "/"
     weight = 1
 
     [[languages.de.menu.main]]
     identifier = "about"
     name = "ABOUT"
-    url = "/de/about"
+    url = "/about"
     weight = 2
 
     [[languages.de.menu.main]]
     identifier = "upcoming"
     name = "UPCOMING"
-    url = "/de/upcoming"
+    url = "/upcoming"
     weight = 3
 
     [[languages.de.menu.main]]
     identifier = "projects"
     name = "PROJEKTE"
-    url = "/de/projects"
+    url = "/projects"
     weight = 4
 
     [[languages.de.menu.main]]
     identifier = "cv"
     name = "CV"
-    url = "/de/cv"
+    url = "/cv"
     weight = 5
 
     [[languages.de.menu.main]]
     identifier = "imprint"
     name = "IMPRESSUM"
-    url = "/de/imprint"
+    url = "/imprint"
     weight = 6
 
 
