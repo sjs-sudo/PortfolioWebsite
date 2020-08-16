@@ -26,76 +26,66 @@ pygmentsUseClasses = true
         weight = 2
 
 # Menu elements
-
+    # English
 
     [[languages.en.menu.main]]
-    identifier = "home"
     name = "HOME"
     url = "/"
     weight = 1
 
     [[languages.en.menu.main]]
-    identifier = "about"
     name = "ABOUT"
     url = "/about"
     weight = 2
 
     [[languages.en.menu.main]]
-    identifier = "upcoming"
     name = "UPCOMING"
     url = "/upcoming"
     weight = 3
 
     [[languages.en.menu.main]]
-    identifier = "projects"
     name = "PROJECTS"
     url = "/projects"
     weight = 4
 
     [[languages.en.menu.main]]
-    identifier = "cv"
     name = "CV"
     url = "/cv"
     weight = 5
 
     [[languages.en.menu.main]]
-    identifier = "imprint"
     name = "IMPRINT"
     url = "/imprint"
     weight = 6
 
+    # German
+
     [[languages.de.menu.main]]
-    identifier = "home"
     name = "HOME"
     url = "/"
     weight = 1
 
     [[languages.de.menu.main]]
-    identifier = "about"
     name = "ABOUT"
     url = "/about"
     weight = 2
 
     [[languages.de.menu.main]]
-    identifier = "upcoming"
     name = "UPCOMING"
     url = "/upcoming"
     weight = 3
 
     [[languages.de.menu.main]]
-    identifier = "projects"
     name = "PROJEKTE"
     url = "/projects"
     weight = 4
 
     [[languages.de.menu.main]]
-    identifier = "cv"
     name = "CV"
     url = "/cv"
     weight = 5
 
     [[languages.de.menu.main]]
-    identifier = "imprint"
     name = "IMPRESSUM"
     url = "/imprint"
     weight = 6
