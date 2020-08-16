@@ -64,6 +64,42 @@ pygmentsUseClasses = true
     url = "/imprint"
     weight = 6
 
+    [[languages.de.menu.main]]
+    identifier = "home"
+    name = "HOME"
+    url = "/de"
+    weight = 1
+
+    [[languages.de.menu.main]]
+    identifier = "about"
+    name = "ABOUT"
+    url = "/de/about"
+    weight = 2
+
+    [[languages.de.menu.main]]
+    identifier = "upcoming"
+    name = "UPCOMING"
+    url = "/de/upcoming"
+    weight = 3
+
+    [[languages.de.menu.main]]
+    identifier = "projects"
+    name = "Projekte"
+    url = "/de/projects"
+    weight = 4
+
+    [[languages.de.menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "/de/cv"
+    weight = 5
+
+    [[languages.de.menu.main]]
+    identifier = "imprint"
+    name = "Impressum"
+    url = "/de/imprint"
+    weight = 6
+
 
 # Enable only tags taxonomy
 [taxonomies]
