@@ -62,7 +62,7 @@ pygmentsUseClasses = true
     identifier = "imprint"
     name = "IMPRINT"
     url = "/imprint"
-    weight = 5
+    weight = 6
 
 
 # Enable only tags taxonomy
