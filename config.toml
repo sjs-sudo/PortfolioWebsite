@@ -26,66 +26,66 @@ pygmentsUseClasses = true
         weight = 2
 
 # Menu elements
-    # English
+# English
 
-    [[languages.en.menu.main]]
+[[languages.en.menu.main]]
     name = "HOME"
     url = "/"
     weight = 1
 
-    [[languages.en.menu.main]]
+[[languages.en.menu.main]]
     name = "ABOUT"
     url = "/about"
     weight = 2
 
-    [[languages.en.menu.main]]
+[[languages.en.menu.main]]
     name = "UPCOMING"
     url = "/upcoming"
     weight = 3
 
-    [[languages.en.menu.main]]
+[[languages.en.menu.main]]
     name = "PROJECTS"
     url = "/projects"
     weight = 4
 
-    [[languages.en.menu.main]]
+[[languages.en.menu.main]]
     name = "CV"
     url = "/cv"
     weight = 5
 
-    [[languages.en.menu.main]]
+[[languages.en.menu.main]]
     name = "IMPRINT"
     url = "/imprint"
     weight = 6
 
-    # German
+#German
 
-    [[languages.de.menu.main]]
+[[languages.de.menu.main]]
     name = "HOME"
     url = "/"
     weight = 1
 
-    [[languages.de.menu.main]]
+[[languages.de.menu.main]]
     name = "ABOUT"
     url = "/about"
     weight = 2
 
-    [[languages.de.menu.main]]
+[[languages.de.menu.main]]
     name = "UPCOMING"
     url = "/upcoming"
     weight = 3
 
-    [[languages.de.menu.main]]
+[[languages.de.menu.main]]
     name = "PROJEKTE"
     url = "/projects"
     weight = 4
 
-    [[languages.de.menu.main]]
+[[languages.de.menu.main]]
     name = "CV"
     url = "/cv"
     weight = 5
 
-    [[languages.de.menu.main]]
+[[languages.de.menu.main]]
     name = "IMPRESSUM"
     url = "/imprint"
     weight = 6
@@ -104,9 +104,6 @@ pygmentsUseClasses = true
 
     # Google Analytics code
     googleAnalytics = "UA-128498798-1"
-
-    # Adsense publisher code
-    adsensePublisher = "ca-pub-123456789"
 
     # Social sites for metatags
     facebookSite = "sabinajasmin"
