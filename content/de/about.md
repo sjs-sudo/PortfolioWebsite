@@ -2,7 +2,7 @@
 title: "ABOUT"
 date: 2020-08-11T20:03:04+02:00
 draft: false
-
+url: "/de/about"
 ---
 
 # Jasmin Schädler

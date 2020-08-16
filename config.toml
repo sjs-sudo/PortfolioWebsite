@@ -1,7 +1,7 @@
 # Default language if you have a multi-language setup
 DefaultContentLanguage = "en"
 
-baseURL = "jasmin-schaedler.com"
+baseURL = ""
 theme = "amperage"
 pygmentsUseClasses = true
 
