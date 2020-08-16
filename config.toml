@@ -11,7 +11,7 @@ pygmentsUseClasses = true
 # Language sections
 [languages]
     [languages.en]
-        contentDir = "content/en"
+        contentDir = "content"
         languageName = "English"
         languageCode = "en"
         title = "Jasmin Schaedler"
