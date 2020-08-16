@@ -2,7 +2,7 @@
 title: "UPCOMING"
 date: 2020-08-10T20:05:38+02:00
 draft: false
-url: "/de/upcoming"
+
 ---
 
 # Aktuelle Veranstaltungen 
