@@ -37,31 +37,31 @@ pygmentsUseClasses = true
         [[menu.main]]
     identifier = "about"
     name = "ABOUT"
-    url = "/about/"
+    url = "/about"
     weight = 2
 
         [[menu.main]]
     identifier = "upcoming"
     name = "UPCOMING"
-    url = "/upcoming/"
+    url = "/upcoming"
     weight = 3
 
     [[menu.main]]
     identifier = "projects"
     name = "PROJECTS"
-    url = "/projects/"
+    url = "/projects"
     weight = 4
 
         [[menu.main]]
     identifier = "cv"
     name = "CV"
-    url = "/cv/"
+    url = "/cv"
     weight = 5
 
         [[menu.main]]
     identifier = "imprint"
     name = "IMPRINT"
-    url = "/imprint/"
+    url = "/imprint"
     weight = 5
 
 
