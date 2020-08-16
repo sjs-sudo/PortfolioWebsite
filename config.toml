@@ -52,7 +52,7 @@ pygmentsUseClasses = true
     url = "/projects"
     weight = 4
 
-        [[menu.main]]
+    [[menu.main]]
     identifier = "cv"
     name = "CV"
     url = "/cv"
