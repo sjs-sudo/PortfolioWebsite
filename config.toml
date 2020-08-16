@@ -64,32 +64,32 @@ pygmentsUseClasses = true
 
 [[languages.de.menu.main]]
     name = "HOME"
-    url = "/"
+    url = "/de"
     weight = 1
 
 [[languages.de.menu.main]]
     name = "ABOUT"
-    url = "/about"
+    url = "/de/about"
     weight = 2
 
 [[languages.de.menu.main]]
     name = "UPCOMING"
-    url = "/upcoming"
+    url = "/de/upcoming"
     weight = 3
 
 [[languages.de.menu.main]]
     name = "PROJEKTE"
-    url = "/projects"
+    url = "/de/projects"
     weight = 4
 
 [[languages.de.menu.main]]
     name = "CV"
-    url = "/cv"
+    url = "/de/cv"
     weight = 5
 
 [[languages.de.menu.main]]
     name = "IMPRESSUM"
-    url = "/imprint"
+    url = "/de/imprint"
     weight = 6
 
 
