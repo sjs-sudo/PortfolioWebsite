@@ -88,5 +88,6 @@ pygmentsUseClasses = true
     publisherLogoWidth = 600
     publisherLogoHeight = 60
 
-
+[markup]
+    defaultMarkdownHandler = "blackfriday"
 
