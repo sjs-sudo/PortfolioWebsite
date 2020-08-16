@@ -2,7 +2,9 @@
 DefaultContentLanguage = "en"
 
 baseURL = ""
+
 theme = "amperage"
+
 pygmentsUseClasses = true
 
 # Number of posts shown per page
