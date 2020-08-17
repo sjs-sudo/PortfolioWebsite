@@ -7,19 +7,19 @@ draft: false
 ## Residencies & Scholarships
 -------------
 
-10/20		
+10 / 20		
 :   **Freischwimmen Residency**, die apokalyptischen tänzer*innen, Gessnerallee Zürich
 
-07/20 – 08/20 
+07 / 20 – 08 / 20 
 :   **flausen Residency**, die apokalyptischen tänzer*innen, Theater im Ballsaal, Bonn
 
-04/20		
+04 / 20		
 :   **Kunststiftung Baden-Württemberg Scholarship**, Performaning Arts
 
-12/19		
+12 / 19		
 :   **Freischwimmen Residency**, die apokalyptischen tänzerin*nen, Sophiensaele Berlin
 
-08/19 – 08/20	
+08 / 19 – 08 / 20	
 :   **Member of Freischwimmen Plattform**, die apokalyptischen tänzerin*nen
 
 07/19		
