@@ -22,22 +22,22 @@ draft: false
 08 / 19 – 08 / 20	
 :   **Member of Freischwimmen Plattform**, die apokalyptischen tänzerin*nen
 
-07/19		
+07 / 19		
 :   **Insel Stiftung Hombroich**, Residency with Enoch Cheng at Haus für Musiker
 
-03/19 – jetzt 	
+03 / 19 – today 	
 :   **Studio Fellowship**, Künstlerhaus Stuttgart 
 
-09/18 – 08/19	
+09 / 18 – 08 / 19	
 :   **DAAD Graduate Scholarship** in the category Visual Art
 
-08/17		
+08 / 17		
 :   **zeitraumexit Gastarbeiten Residency**, die apokalyptischen tänzerin*nen, zeitraumexit, Mannheim
 
-09/16 – 02/17 	
+09 / 16 – 02 / 17 	
 :   **Residency** at Akademie Schloss Solitude	 
 
-09/14 – 12/14 	
+09 / 14 – 12 / 14 	
 :   **Baden-Württemberg Scholarship**, exchange semester at TART Sankt-Petersburg, RUS
 
 06 / 10 – 08 / 10	
