@@ -7,7 +7,7 @@ draft: false
 
 # Jasmin Schädler
 
-was born in Illertissen in 1989. After completing her bachelor’s degree in physics and cultural studies, she studied theater directing at the [Academy of Performing Arts Baden-Württemberg](adk-bw.de) and in the master art practice at the [Dutch Art Institute](https://dutchartinstitute.eu/).  
+was born in Illertissen in 1989. After completing her bachelor’s degree in physics and cultural studies, she studied theater directing at the [Academy of Performing Arts Baden-Württemberg](adk-bw.de) and in the master art parxis at the [Dutch Art Institute](https://dutchartinstitute.eu/).  
 
 The overarching subject of her work is the questioning of knowledge hierachies. Coming from an intersectional perspective she investigates the relationship between space, perception and identity in both analog and digital In doing so, she deals with data collection, reporting and the questioning of conventions of knowledge production.
 
