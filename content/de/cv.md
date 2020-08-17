@@ -49,7 +49,7 @@ draft: false
 ## Ausbildung 
 -------------
 09/17 – 08/20 
-:   **MA, Kunst Praxis**, Dutch Art Institute, ArtEZ, NL 
+:   **MA, Kunst Praxis**, [Dutch Art Institute](https://dutchartinstitute.eu/), ArtEZ, NL 
 :   *Thesis Titel: With a Human Face? - Aesthetics and Politics of Datafication*   
 
 
