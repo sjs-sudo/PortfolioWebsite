@@ -52,7 +52,7 @@ draft: false
 
 
 10 / 12 – 07 / 16
-:   **BA, Theater Directing**, Akademie für Darstellende Kunst Baden-Württemberg, DE   
+:   **BA, Theater Directing**, [Akademie für Darstellende Kunst Baden-Württemberg](https://adk-bw.de/), DE   
 
 
 09 / 09 – 05 / 12
