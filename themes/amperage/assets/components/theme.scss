@@ -12,7 +12,7 @@ body {
 .header,
 .main,
 .footer {
-  grid-column: 4 / span 6;
+  grid-column: 3 / span 8;
 }
 
 .main {
@@ -30,6 +30,9 @@ body {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
+  padding: 20px 0;
+  border-top: 1px solid black;
+  font-size: 0.9rem;
 }
 
 .button {
@@ -211,7 +214,7 @@ blockquote {
   }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 800px) {
   body {
     grid-gap: 0;
   }
