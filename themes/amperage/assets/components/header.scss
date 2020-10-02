@@ -1,0 +1,56 @@
+.header {
+  margin-top: 1em;
+
+  &__menu {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    overflow: auto;
+    justify-content: flex-start;
+    border: 1px solid #333;
+
+    a {
+      font-size: 1.2em;
+      white-space: nowrap;
+      border-bottom: none;
+      &:hover {
+        color: $main-color;
+      }
+    }
+
+    &__logo {
+      line-height: 0;
+
+      svg {
+        width: 75px;
+        height: 75px;
+        min-width: 75px;
+        min-height: 75px;
+      }
+    }
+
+    &__list {
+      display: flex;
+      flex-grow: 1;
+      flex-wrap: nowrap;
+      align-items: center;
+      justify-content: space-around;
+
+      li {
+        padding: 0 1em;
+        display: inline;
+      }
+    }
+  }
+
+  @media (max-width: 1200px) {
+    .header {
+      margin: 0;
+
+      &__menu {
+        border: none;
+        border-bottom: 1px solid #333;
+      }
+    }
+  }
+}
