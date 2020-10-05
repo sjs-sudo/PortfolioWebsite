@@ -5,4 +5,6 @@ draft: false
 
 ---
 
-![City.Space.Movement](/upcoming/csmmap.pdf)
+![City.Space.Movement](/upcoming/csmmap1.png)
+
+![City.Space.Movement](/upcoming/csmmap2.png)
