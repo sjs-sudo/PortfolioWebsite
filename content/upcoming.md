@@ -17,4 +17,4 @@ draft: false
 **07.-10.11.2020, [Mit Haiti an der Hegel-Bar](https://mithaitianderhegelbar.de/), project space Kunstverein Wagenhallen Stuttgart, DE**
 :   A research based exhibition project in collaboration with Susanne Brendel and Julia Schäfer.
 
-![Mit Haiti an der Hegel-Bar](/haitihegel.png)
+![Mit Haiti an der Hegel-Bar](/upcoming/haitihegel.png)
