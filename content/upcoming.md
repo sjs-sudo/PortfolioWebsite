@@ -7,16 +7,14 @@ draft: false
 
 # What's happening?
 
-**14.08.2020, [[...] und der Geruch](https://flausen.plus/residenz/50-prometheus-und-der-geruch/), 19:00 at Galerie KUB, Leipzig, DE**
-:   Showing of flausen research residency about smell.
-:   By [die apokalyptische tänzerin*nen](https://www.apocalypse.dance/) and [Charlotte Eifler](http://charlotteeifler.works/).  
+**12.-25.10.2020, [Freischwimmen Residency](https://freischwimmen.org/en/) with [die apokalyptischen tänzerin*nen](https://apocalypse.dance), at [Gessnerallee](https://www.gessnerallee.ch/) Zürich, CH**
+:   Concept phase for our upcoming show *Wunderland* that will premiere in 2021. A new play by the author Mugetha Gachago.   
 
-![Ambra](/upcoming/ambra.png)
+![Wunderland](/upcoming/wunderland.png)
 
 &nbsp;
 
-**20.-22.08.2020, Art on Wheels, Stuttgart and surrounding areas, DE**
-:   Nine mobile concerts and perofrmances in three days.
-:   A project by [InterAKT Initiative e.V.](https://interakt-initiative.com/), funded through Kultur Sommer 2020.
+**07.-10.11.2020, [Mit Haiti an der Hegel-Bar](https://mithaitianderhegelbar.de/), project space Kunstverein Wagenhallen Stuttgart, DE**
+:   A research based exhibition project in collaboration with Susanne Brendel and Julia Schäfer.
 
-![Kunst auf Rädern, © Inga Ruxton](/upcoming/kur.gif)
+![Mit Haiti an der Hegel-Bar](/haitihegel.png)
