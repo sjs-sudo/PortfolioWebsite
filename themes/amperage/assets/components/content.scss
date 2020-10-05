@@ -1,0 +1,117 @@
+.content {
+  width: 100%;
+
+  & > * {
+    margin-top: 1.5em;
+  }
+
+  & > h1 {
+    margin-top: 0.5em;
+  }
+
+  pre {
+    overflow: auto;
+    padding: 0.5em;
+  }
+
+  code {
+    padding: 0.1em;
+  }
+
+  table {
+    display: block;
+    overflow-x: auto;
+    border-collapse: collapse;
+
+    td,
+    th {
+      border: 1px solid #ddd;
+    }
+
+    td {
+      padding: 0.5em 1em;
+    }
+
+    th {
+      padding: 1em 2em;
+      background-color: #333;
+      color: white;
+    }
+
+    tr:nth-child(even) {
+      background-color: #f1f1f1;
+    }
+
+    tr:hover {
+      background-color: #ddd;
+    }
+  }
+
+  .highlight {
+    .chroma {
+      background-color: #f1f1f1;
+    }
+  }
+
+  .under-title {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-size: 1rem;
+
+    &__info,
+    &__social-share {
+      align-self: center;
+    }
+  }
+
+  .ad {
+    display: flex;
+    margin: 1rem auto;
+    align-content: center;
+    width: min-content;
+    height: min-content;
+    min-width: 320px;
+    min-height: 320px;
+    border: 1px solid #333;
+
+    &__fallback {
+      display: flex;
+      align-items: center;
+
+      p {
+        margin: auto;
+      }
+    }
+  }
+
+  .author {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f1f1f1;
+    padding: 1.5rem;
+
+    & > *:not(:first-child) {
+      margin-top: 1rem;
+    }
+
+    &__name {
+      font-weight: 700;
+      font-size: 1.5em;
+    }
+
+    &__image {
+      border-radius: 100px;
+    }
+
+    &__bio,
+    &__cta {
+      text-align: center;
+    }
+
+    &__cta {
+      font-size: 1.25em;
+    }
+  }
+}
