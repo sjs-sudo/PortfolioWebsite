@@ -8,9 +8,10 @@ draft: false
 &nbsp;
 
 Jasmin Schädler
-:   freiberufliche Künstlerin
-:   Seestraße 65
-:   70174 Stuttgart  
+:   freelance artist
+:   Künstlerhaus Stuttgart
+:   Reuchlinstraße 4b
+:   70178 Stuttgart
 
 &nbsp;
 
