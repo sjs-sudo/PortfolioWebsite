@@ -1,12 +1,4 @@
-// base
-
-@import 'base/variables';
-@import 'base/reset';
-@import 'base/syntax';
-
-// theme
-
-@import 'components/typo';
-@import 'components/header';
-@import 'components/content';
-@import 'components/theme';
+@import "variables";
+@import "reset";
+@import "syntax";
+@import "theme";
