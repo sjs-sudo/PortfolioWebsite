@@ -10,8 +10,8 @@ draft: false
     <title>City.Space.Movement</title>
   </head>
   <body>
-    <h1>ity.Space.Movement Publication</h1>
-    <iframe src="/upcoming/csmmap.pdf" width="100%" height="500px">
+    <h1>City.Space.Movement Publication</h1>
+    <iframe src="/upcoming/csmmap.pdf" width="100%" height="1000px">
     </iframe>
   </body>
 </html>
