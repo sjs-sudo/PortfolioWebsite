@@ -10,10 +10,10 @@ draft: false
     <title>City.Space.Movement</title>
   </head>
   <body>
-    <h1>City.Space.Movement Publication</h1>
+    <h1>City.Space.Movement Publikation</h1>
     <iframe src="/upcoming/csmmap.pdf" width="100%" height="1000px">
     </iframe>
   </body>
 </html>
 
-All the releases of the project can be found [here -->](https://www.irritiertestadt.de/projekt/city-space-movement/en)
+Alle Veröffentlichungen des Projekt befinden sich [hier -->](https://www.irritiertestadt.de/projekt/city-space-movement/)
