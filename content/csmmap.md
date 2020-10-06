@@ -5,6 +5,14 @@ draft: false
 
 ---
 
-![City.Space.Movement](/upcoming/csmmap1.png)
-
-![City.Space.Movement](/upcoming/csmmap2.png)
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>City.Space.Movement</title>
+  </head>
+  <body>
+    <h1>How to disable downloading of the PDF document</h1>
+    <iframe src="/upcoming/csmmap.pdf" width="100%" height="500px">
+    </iframe>
+  </body>
+</html>
