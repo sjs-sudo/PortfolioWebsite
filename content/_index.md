@@ -5,4 +5,4 @@ draft: false
 ---
 
 Welcome!
-This is the portfolio website of the director, performer and visual artist Jasmin Schädler.
+This is the portfolio website of the director, performer and media artist Jasmin Schädler.
