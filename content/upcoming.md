@@ -1,6 +1,6 @@
 ---
 title: "UPCOMING"
-date: 2020-07-10T09:29:57+02:00
+date: 2021-10-10T09:29:57+02:00
 draft: false
 
 ---
@@ -9,7 +9,7 @@ draft: false
 
 #### **12.& 16.04.2021, [hands on aids](https://www.6tagefrei.de/programm2021/), [6 Tage Frei Festival](https://www.6tagefrei.de/programm2021/) / Club Lehmann, Stuttgart, DE**
 
-'hands on aids' is a hybrid between party, concert, immersive theater performance and installation. In addition to the topic of HIV and AIDS prevention, Frisch & Schick deal with the history of the disease and its impact on the psyche within society since its discovery. 
+:   'hands on aids' is a hybrid between party, concert, immersive theater performance and installation. In addition to the topic of HIV and AIDS prevention, Frisch & Schick deal with the history of the disease and its impact on the psyche within society since its discovery. 
 
 &nbsp;
 
