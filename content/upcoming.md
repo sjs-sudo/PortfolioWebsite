@@ -27,8 +27,10 @@ draft: false
 :   A performative investigation of the violent history of banana trade through the themes of racism, global economics and pop culture. 
 
 &nbsp;
-
 :   A project by [die apokalyptische tänzerin*nen](https://www.apocalypse.dance/) and Produktionsbüro [schæfer&sœhne](http://www.ae-oe.de/).
+
+&nbsp;
+:   Funded by *6 Tage Frei Festival*.
 
 ![Banana Island, © Julia Schäfer](/upcoming/BI1.jpg)
 © Julia Schäfer
@@ -37,6 +39,10 @@ draft: false
 :   *Wunderland* is the newest text by the author Mugehta Gachago which he specifically
  wrote for the performance collective *die apokalyptischen tänzerin*nen*. Loosely based on Alice in Wonderland, the author invites the audience into a world where standards of good and evil are dissolved. 
 
+&nbsp;
 :   A project by [die apokalyptische tänzerin*nen](https://www.apocalypse.dance/) and Produktionsbüro [schæfer&sœhne](http://www.ae-oe.de/).
+
+&nbsp;
+Funded by the *City of Stuttgart*, by the *Association of Independent Dance and Theatre Creators in Baden-Württemberg* through means of the *State Ministry of Baden-Wuerttemberg for Sciences, Research and Arts* and by *Fonds Socioculture e.V.*
 
 ![Wunderland](/upcoming/wunderland.png)
