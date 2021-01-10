@@ -7,18 +7,36 @@ draft: false
 
 # What's happening?
 
-**28.11.2020, [The possessed Gaze - a video call performance](https://www.nonknowledge.org/p16), Non-knowledge, Laughter and The Moving Image presents: The Dance of Disorder, Online Symposium, 27-28 Nov 2020**
+#### **12.& 16.04.2021, [hands on aids](https://www.6tagefrei.de/programm2021/), [6 Tage Frei Festival](https://www.6tagefrei.de/programm2021/) / Club Lehmann, Stuttgart, DE**
 
-:   We mirror, externalise, divide, lose ourselves. The leftovers are not considered human anymore. We call them data and feed them into frameworks we call machines or algorithms. But we cannot forget these remnants all together. Remorsefully we start to anthropomorphize their new shells. Suddenly we live among aliens we created but actually we are only looking at amputated parts of ourselves.
-Are you looking at me?
-Mark is possessed by Algorithma.
-They look through his eyes at everyone else.
-The stars watch from above, streaming ethereal power, acting upon their destiny.
-
-:   The Performance will take place in the Zoom Webinar. It can also be viewed through the Vimeo Live Stream.
-Zoom Webinar: For the Webinar Link (same throughout the program) please email: disorder@nonknowledge.org
-Live Stream: vimeo.com/event/486490.
-
-![The possessed Gaze](/upcoming/tpg.jpg)
+'hands on aids' is a hybrid between party, concert, immersive theater performance and installation. In addition to the topic of HIV and AIDS prevention, Frisch & Schick deal with the history of the disease and its impact on the psyche within society since its discovery. 
 
 &nbsp;
+
+:   A project by *Frisch & Schick* ([Johannes Frick](https://johannesfrick.jimdofree.com/) and Jasmin Schädler) and [InterAKT Initiative e.V.](https://interakt-initiative.com/). With Sebastiano Sing & Robyn/Hugo Le Brigand, Karimael Buledi, Helena Dadoku and Jonas Wienberg.
+
+&nbsp;
+
+In collaboration with *AIDS Hilfe Stuttgart e.V*. Funded by the *City of Stuttgart* and *6 Tage Frei Festival*. Supported by *LBBW-Foundation*. 
+
+![hands on aids](/upcoming/hoa.png)
+
+&nbsp;
+
+#### **14.04.2021, [Banana Island](https://www.apocalypse.dance/projekte/banana-island),  [6 Tage Frei Festival](https://www.6tagefrei.de/programm2021/) / [Theater Rampe](https://theaterrampe.de/stuecke/banana-island/), Stuttgart, DE**
+:   A performative investigation of the violent history of banana trade through the themes of racism, global economics and pop culture. 
+
+&nbsp;
+
+:   A project by [die apokalyptische tänzerin*nen](https://www.apocalypse.dance/) and Produktionsbüro [schæfer&sœhne](http://www.ae-oe.de/).
+
+![Banana Island, © Julia Schäfer](/upcoming/BI1.jpg)
+© Julia Schäfer
+
+#### **30. & 31.07. + 01.08.2021, [Wunderland](https://www.apocalypse.dance/projekte/wunderland), Theaterhaus, Stuttgart, DE**
+:   *Wunderland* is the newest text by the author Mugehta Gachago which he specifically
+ wrote for the performance collective *die apokalyptischen tänzerin*nen*. Loosely based on Alice in Wonderland, the author invites the audience into a world where standards of good and evil are dissolved. 
+
+:   A project by [die apokalyptische tänzerin*nen](https://www.apocalypse.dance/) and Produktionsbüro [schæfer&sœhne](http://www.ae-oe.de/).
+
+![Wunderland](/upcoming/wunderland.png)
