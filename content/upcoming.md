@@ -17,7 +17,7 @@ draft: false
 
 &nbsp;
 
-In collaboration with *AIDS Hilfe Stuttgart e.V*. Funded by the *City of Stuttgart* and *6 Tage Frei Festival*. Supported by *LBBW-Foundation*. 
+:   In collaboration with *AIDS Hilfe Stuttgart e.V*. Funded by the *City of Stuttgart* and *6 Tage Frei Festival*. Supported by *LBBW-Foundation*. 
 
 ![hands on aids](/upcoming/hoa.png)
 
