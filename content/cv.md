@@ -62,8 +62,27 @@ draft: false
 ## Artistic Work
 -------------
 
+1 / 20
+:   **The possessed Gaze**, a video call performance, The Dance of Disorder Online Symposium curated by Annika Larsson & Isabel Gatzke at HFBK, Hamburg
+
+11 / 20
+:   **Sketched Fields**, radio play and installation, with Weber/Lee/Siffert
+Klangraumfestival 2020 Kunstraum 34 / Radio Rampe, Stuttgart
+
+11 / 20
+:   **vom Aufgang der Sonne**, exhibition, n.n.n. *collective*, Kunstverein Wagenhalle e.V. Stuttgart.
+
+08 / 20
+:   **Kunst auf Rädern**, performative concerts, InterAKT Initiative, KulturSommer 2020
+
+08 / 20
+:   **... und der Geruch**, die apokalyptischen tänzer*innen & Charlotte Eifler, online/offline performance, flausen residency
+
 07 / 20
-:   [**City.Space.Movement**](https://www.irritiertestadt.de/projekt/city-space-movement/), artistic research and performance project between Johannesburg SA and Stuttgart DE, with Bongile Lecoge-Zulu, Irritierte Stadt Festival, Stuttgart, DE
+:   **City.Space.Movement**, artistic research and performance project between Johannesburg SA and Stuttgart DE, with Bongile Lecoge-Zulu, Irritierte Stadt Festival, Stuttgart, DE
+
+05 / 20
+:   **Mit Haiti an der Hegel-Bar**, online Symposium, n.n.n. *collective*, Hegel Year 2020
 
 01 / 20		
 :   **Banana Island**, performance, die apokalyptischen tänzerin*nen, Schwankhalle Bremen, DE
