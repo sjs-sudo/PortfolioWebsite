@@ -8,8 +8,8 @@ draft: false
 # What's happening?
 
 #### **12.& 16.04.2021, [hands on aids](https://www.6tagefrei.de/programm2021/), [6 Tage Frei Festival](https://www.6tagefrei.de/programm2021/) / Club Lehmann, Stuttgart, DE**
-
-:   'hands on aids' is a hybrid between party, concert, immersive theater performance and installation. In addition to the topic of HIV and AIDS prevention, Frisch & Schick deal with the history of the disease and its impact on the psyche within society since its discovery. 
+##### Postponed to 2022 due to COVID19.
+:   *hands on aids* is a hybrid between party, concert, immersive theater performance and installation. In addition to the topic of HIV and AIDS prevention, Frisch & Schick deal with the history of the disease and its impact on the psyche within society since its discovery. 
 
 &nbsp;
 
@@ -24,6 +24,7 @@ draft: false
 &nbsp;
 
 #### **14.04.2021, [Banana Island](https://www.apocalypse.dance/projekte/banana-island),  [6 Tage Frei Festival](https://www.6tagefrei.de/programm2021/) / [Theater Rampe](https://theaterrampe.de/stuecke/banana-island/), Stuttgart, DE**
+##### Postponed to 2022 due to COVID19.
 :   A performative investigation of the violent history of banana trade through the themes of racism, global economics and pop culture. 
 
 &nbsp;
@@ -43,6 +44,6 @@ draft: false
 :   A project by [die apokalyptische tänzerin*nen](https://www.apocalypse.dance/) and Produktionsbüro [schæfer&sœhne](http://www.ae-oe.de/).
 
 &nbsp;
-Funded by the *City of Stuttgart*, by the *Association of Independent Dance and Theatre Creators in Baden-Württemberg* through means of the *State Ministry of Baden-Wuerttemberg for Sciences, Research and Arts* and by *Fonds Socioculture e.V.*
+:   Funded by the *City of Stuttgart*, by the *Association of Independent Dance and Theatre Creators in Baden-Württemberg* through means of the *State Ministry of Baden-Wuerttemberg for Sciences, Research and Arts* and by *Fonds Socioculture e.V.*
 
 ![Wunderland](/upcoming/wunderland.png)
