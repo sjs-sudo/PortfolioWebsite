@@ -73,7 +73,7 @@ pygmentsUseClasses = true
     weight = 2
 
 [[languages.de.menu.main]]
-    name = "UPCOMING"
+    name = "AKTUELL"
     url = "/de/upcoming"
     weight = 3
 
