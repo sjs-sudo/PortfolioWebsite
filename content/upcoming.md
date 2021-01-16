@@ -19,16 +19,17 @@ draft: false
 
 :   In collaboration with *AIDS Hilfe Stuttgart e.V*. Funded by the *City of Stuttgart* and *6 Tage Frei Festival*. Supported by *LBBW-Foundation*. 
 
-![hands on aids](/upcoming/hoa.png)
+![hands on aids, © Frisch & Schick](/upcoming/hoa.png)
+© Frisch & Schick
 
 &nbsp;
 
 #### **14.04.2021, [Banana Island](https://www.apocalypse.dance/projekte/banana-island),  [6 Tage Frei Festival](https://www.6tagefrei.de/programm2021/) / [Theater Rampe](https://theaterrampe.de/stuecke/banana-island/), Stuttgart, DE**
 ##### Postponed to 2022 due to COVID19.
-:   A performative investigation of the violent history of banana trade through the themes of racism, global economics and pop culture. 
+:   *Banana Island* is a choreographic and performative investigation of the banana. As one of the most important and popular foods in the world, protagonist of colonial and neo-colonial crimes and racist and sexist attributions, and at the same time film star, comedian, art and political weapon, the banana is the bracket and center of the performance. As we slowly begin to peel, we expose the tension between pop culture and tyranny. We interrogate the glamorous appearance of the banana and contextualize the opposites united in it.
 
 &nbsp;
-:   A project by [die apokalyptische tänzerin*nen](https://www.apocalypse.dance/) and Produktionsbüro [schæfer&sœhne](http://www.ae-oe.de/).
+:   A project by [die apokalyptische tänzerin\*nen](https://www.apocalypse.dance/) and Produktionsbüro [schæfer&sœhne](http://www.ae-oe.de/).
 
 &nbsp;
 :   Funded by *6 Tage Frei Festival*.
@@ -41,9 +42,10 @@ draft: false
  wrote for the performance collective *die apokalyptischen tänzerin*nen*. Loosely based on Alice in Wonderland, the author invites the audience into a world where standards of good and evil are dissolved. 
 
 &nbsp;
-:   A project by [die apokalyptische tänzerin*nen](https://www.apocalypse.dance/) and Produktionsbüro [schæfer&sœhne](http://www.ae-oe.de/).
+:   A project by [die apokalyptische tänzerin\*nen](https://www.apocalypse.dance/) and Produktionsbüro [schæfer&sœhne](http://www.ae-oe.de/).
 
 &nbsp;
 :   Funded by the *City of Stuttgart*, by the *Association of Independent Dance and Theatre Creators in Baden-Württemberg* through means of the *State Ministry of Baden-Wuerttemberg for Sciences, Research and Arts* and by *Fonds Socioculture e.V.*
 
-![Wunderland](/upcoming/wunderland.png)
+![Wunderland, © die apokalyptische tänzerin\*nen](/upcoming/wunderland.png)
+© die apokalyptische tänzerin\*nen

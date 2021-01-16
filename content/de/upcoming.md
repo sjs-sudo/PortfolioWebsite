@@ -20,7 +20,8 @@ draft: false
 
 :   In Kooperation mit der *AIDS Hilfe Stuttgart e.V*. Gefördert durch das Kulturamt der Stadt Stuttgart und das *6 Tage Frei Festival*. Mit freundlicher Unterstützung der *LBBW-Stiftung*. 
 
-![hands on aids](/upcoming/hoa.png)
+![hands on aids, © Frisch & Schick](/upcoming/hoa.png)
+© Frisch & Schick
 
 &nbsp;
 
@@ -30,7 +31,7 @@ draft: false
 
 &nbsp;
 
-:   Ein Projekt von [die apokalyptische tänzerin*nen](https://www.apocalypse.dance/) und Produktionsbüro [schæfer&sœhne](http://www.ae-oe.de/).
+:   Ein Projekt von [die apokalyptische tänzerin\*nen](https://www.apocalypse.dance/) und Produktionsbüro [schæfer&sœhne](http://www.ae-oe.de/).
 
 &nbsp;
 
@@ -44,10 +45,11 @@ draft: false
 
 &nbsp;
 
-:   Ein Projekt von [die apokalyptische tänzerin*nen](https://www.apocalypse.dance/) und Produktionsbüro [schæfer&sœhne](http://www.ae-oe.de/).
+:   Ein Projekt von [die apokalyptische tänzerin\*nen](https://www.apocalypse.dance/) und Produktionsbüro [schæfer&sœhne](http://www.ae-oe.de/).
 
 &nbsp;
 
 :   Gefördert durch das *Kulturamt der Landeshauptstadt Stuttgart*, den *Landesverband Freie Tanz- und Theaterschaffende Baden-Württemberg e.V.* aus Mitteln des *Ministeriums für Wissenschaft, Forschung und Kunst des Landes Baden-Württemberg*, und den *Fonds Soziokultur e.V.*
 
-![Wunderland](/upcoming/wunderland.png)
+![Wunderland, © die apokalyptische tänzerin\*nen](/upcoming/wunderland.png)
+© die apokalyptische tänzerin\*nen
