@@ -62,7 +62,7 @@ draft: false
 ## Artistic Work
 -------------
 
-1 / 20
+11 / 20
 :   **The possessed Gaze**, a video call performance, The Dance of Disorder Online Symposium curated by Annika Larsson & Isabel Gatzke at HFBK, Hamburg
 
 11 / 20
