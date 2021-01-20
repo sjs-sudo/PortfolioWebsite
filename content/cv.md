@@ -48,7 +48,7 @@ draft: false
 -------------
 09 / 17 – 08 / 20 
 :   **MA, Art Praxis**, [Dutch Art Institute](https://dutchartinstitute.eu/), ArtEZ, NL 
-:   *Thesis Title: With a Human Face? - Aesthetics and Politics of Datafication*   
+:   [*Thesis Titel: With a Human Face? - Aesthetics and Politics of Datafication*](/thesis)    
 
 
 10 / 12 – 07 / 16
