@@ -22,7 +22,7 @@ Der Link wird am Veranstaltungstag verschickt.
 
 :   In Kooperation mit der *AIDS Hilfe Stuttgart e.V* und [InterAKT Initiative e.V.](https://interakt-initiative.com/). Gefördert durch das Kulturamt der Stadt Stuttgart. 
 
-![© Timo Kleinemeier](/upcoming/positive.png)
+![© Timo Kleinemeier](/upcoming/positive.jpg)
 © Frisch & Schick
 
 &nbsp;
