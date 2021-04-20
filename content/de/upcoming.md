@@ -7,6 +7,26 @@ draft: false
 
 # Aktuelle Veranstaltungen 
 
+#### **05.05.2021, [Gefährliche Körper](https://theaterrampe.de/stuecke/gefaehrliche-koerper/), Thetaer Rampe Stream, Stuttgart, DE**
+:   Das Duo *Frisch&Schick* ([Johannes Frick](https://www.instagram.com/jon_darc/) & Jasmin Schädler) präsentiert die Arbeit *Gefährliche Körper* – eine promiskuitive Konzertperformance in Kooperation mit dem Designer [Aziz Rebar](https://www.instagram.com/aziz_rebar/), dem Medienkünstler Timo Kleinemeier sowie Make-up von [Luna Legend](https://www.instagram.com/luna.legend/), und Gastauftritten von [Karimael Buledi](https://www.instagram.com/kari.m.ael/), Helena Dadoku, [Sebastiano Sing](https://sebastianosing.com/bio) und [Robyn/Hugo Le Brigand](https://www.hugolebrigand.com/).  
+Von unseren Körpern geht Gefahr aus, dieses Bewusstsein hat sich im letzten Jahr endgültig eingestellt. Die Künstler*innen widmen sich der Liebe und der Freizügigkeit mit Blick auf die körperlichen Gefahren, die seit der Entdeckung das HI-Virus einer gesellschaftlichen Überarbeitung unterzogen wurden. Von der damaligen Angst eines Todesurteils bis hin zur heutigen Einstufung einer chronischen Erkrankung begegnet das Team der Geschichte eines Virus, der keine Moral kennt, dem aber immer wieder moralisierend und stigmatisierend begegnet wurde und wird. 
+Das Publikum wird eingeladen zu einer performativen und musikalischen Reise, die verschiedene Blickwinkel und ästhetische Formen einnimmt.
+
+&nbsp;
+
+:   Das Video wird am 5. Mai um 20 Uhr als Livestream ausgestrahlt.
+Anmeldung per Mail an karten@theaterrampe.de. 
+Der Link wird am Veranstaltungstag verschickt.
+
+&nbsp;
+
+:   In Kooperation mit der *AIDS Hilfe Stuttgart e.V* und [InterAKT Initiative e.V.](https://interakt-initiative.com/). Gefördert durch das Kulturamt der Stadt Stuttgart. 
+
+![© Timo Kleinemeier](/upcoming/positive.png)
+© Frisch & Schick
+
+&nbsp;
+
 #### **12.& 16.04.2021, [hands on aids](https://www.6tagefrei.de/programm2021/), [6 Tage Frei Festival](https://www.6tagefrei.de/programm2021/) / Club Lehmann, Stuttgart, DE**
 ##### Aufgrund von COVID19 Verschoben auf 2022.
 :   *hands on aids* ist ein Hybrid aus Party, Konzert, immersiver Theaterperformance und Installation. Zusätzlich zum Thema HIV- und AIDS-Prävention, setzen sich Frisch & Schick mit der Geschichte der Krankheit und ihrer Auswirkung auf die Psyche innerhalb der Gesellschaft seit ihrer Entdeckung bis heute auseinander. 
