@@ -20,7 +20,7 @@ Der Link wird am Veranstaltungstag verschickt.
 
 &nbsp;
 
-:   In Kooperation mit dem *[Theater Rampe](https://theaterrampe.de/stuecke/gefaehrliche-koerper/)* und [InterAKT Initiative e.V.](https://interakt-initiative.com/) Gefördert durch das *Kulturamt der Landeshauptstadt Stuttgart* und die [Freien Tanz- und Theaterszene Stuttgart](https://ftts-stuttgart.de/). 
+:   In Kooperation mit dem *[Theater Rampe](https://theaterrampe.de/stuecke/gefaehrliche-koerper/)* und [InterAKT Initiative e.V.](https://interakt-initiative.com/) Gefördert durch das *Kulturamt der Landeshauptstadt Stuttgart* und die [Freie Tanz- und Theaterszene Stuttgart](https://ftts-stuttgart.de/). 
 
 ![© Timo Kleinemeier](/upcoming/positive.jpg)
 © Timo Kleinemeier

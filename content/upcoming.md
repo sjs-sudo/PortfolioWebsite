@@ -20,7 +20,7 @@ The link will be sent on the day of the event.
 
 &nbsp;
 
-:   In cooperation with *[Theater Rampe](https://theaterrampe.de/stuecke/gefaehrliche-koerper/)* and [InterAKT Initiative e.V.](https://interakt-initiative.com/) Supported by the *City of Stuttgart* and [Freien Tanz- und Theaterszene Stuttgart](https://ftts-stuttgart.de/). 
+:   In cooperation with *[Theater Rampe](https://theaterrampe.de/stuecke/gefaehrliche-koerper/)* and [InterAKT Initiative e.V.](https://interakt-initiative.com/) Supported by the *City of Stuttgart* and [Freie Tanz- und Theaterszene Stuttgart](https://ftts-stuttgart.de/). 
 
 ![© Timo Kleinemeier](/upcoming/positive.jpg)
 © Timo Kleinemeier
