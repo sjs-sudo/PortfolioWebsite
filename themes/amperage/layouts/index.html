@@ -1,6 +1,8 @@
 {{ define "main" }}
-	{{ range .Paginator.Pages }}
-		{{- partial "post/summary.html" . -}}
-	{{ end }}
-	{{- partial "page/pagination.html" . -}}
+	<article class="content">
+		{{ .Content }}
+		{{- partial "post/related-content.html" . -}}
+		{{- partial "post/author.html" . -}}
+		{{- partial "post/comments.html" . -}}
+	</article>
 {{ end }}
