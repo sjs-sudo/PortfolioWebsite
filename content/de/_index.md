@@ -6,4 +6,4 @@ draft: false
 
 
 ![Harmful Bodies, © Timo Kleinemeier](/upcoming/positive.jpg)
-<h6>Harmful Bodies - 2021 © Timo Kleinemeier</h6>
+<h6>Gefährliche Körper - 2021 © Timo Kleinemeier</h6>
