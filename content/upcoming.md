@@ -7,7 +7,35 @@ draft: false
 
 # What's happening?
 
-#### **30. & 31.07. + 01.08.2021, [Wunderland](https://www.apocalypse.dance/projekte/wunderland), Theaterhaus, Stuttgart, DE**
+#### **10.-13. & 16.-19.09.2021, [Kinder der Olypme – Fanshop](https://theaterhausg7.cortex-tickets.de/), Mannheim, DE** 
+:   A fanshop in Mannheim: you are greeted by a woman, a saleswoman. She initiates a conversation, leads you through the shop, advertises her products. Every item tells a story. The woman's name is Olympe. Olympe is more than an employee: Olympe is an athlete, Olympe sprints, is a refugee. Olympe is a brand. Alternating between self and other, she embodies various narratives that imprison her in her place of worship or bring her freedom. 
+
+[Langenfelder](http://www.langenfelder.de/content/langenfelder_lichtenberg.html) & [Lichtenberg](https://sophielichtenberg.de/) stage FANSHOP, a recorded, immersive spatial installation in urban space. The focus is on the question of access and intervention possibilities of a totalitarian state in and on the private reproductive body. The focus of the preceding long-term research was the exemplary examination of the myth of pregnancy doping. This myth states that female athletes in the past entered competitions pregnant in order to improve their performance. In collaboration with associated artists, the duo pursues this myth further in a fictional thought experiment, examining it in the field of tension between subjugation and self-empowerment and placing it alongside the biographical narrative of an escape. Both stories are united by the protagonists' striving for freedom and a pregnancy.
+
+![Kinder der Olympe, © Timothée Deliah Spiegelbach](/upcoming/olympe.png)
+© Timothée Deliah Spiegelbach
+
+&nbsp;
+
+#### **26. & 29.09.2021, [Stuttgart witch trail. A performative journey to old and new motives of the witch.](https://stuttgarterhexenweg.eventbrite.de), Stuttgart, DE** 
+:   In the term witch, historical phantasms and current tendencies encounter each other. Together we trace the history of witches and search for their potential for resistance. We will look at different adaptations of the image of the witch, also with regard to the extent to which they repeat questionable stereotypes. At distinctive places in the city, we get to know female actors who have found their own approaches to the subject and put them up for discussion. Thus, scientific, pop-cultural and practical approaches come together on this journey of discovery and direct our gaze to a multifaceted and imaginative perspective on witches.
+
+:   A project by [Pia Lanzinger](http://www.pialanzinger.de/) and [Jasmin Schädler](https://jasmin-schaedler.com/).
+
+&nbsp;
+
+:   In cooperation with [Kunststiftung Baden-Württemberg](https://www.kunststiftung.de/) and [FF*GZ](https://www.ffgzstuttgart.de/festival/).
+
+&nbsp;
+
+:   Funded by the *City of Stuttgart*.
+
+![Stuttgarter Hexenweg © Christina Mäckelburg](/upcoming/shw.png)
+© Christina Mäckelburg
+
+&nbsp;
+
+#### **03./04./05.12.2021, [Wunderland](https://www.apocalypse.dance/projekte/wunderland), Theater Rampe, Stuttgart, DE**
 :   *Wunderland* is the newest text by the author Mugehta Gachago which he specifically
  wrote for the performance collective *die apokalyptischen tänzerin*nen*. Loosely based on Alice in Wonderland, the author invites the audience into a world where standards of good and evil are dissolved. 
 
@@ -22,22 +50,7 @@ draft: false
 
 &nbsp;
 
-#### **08.08.2021, [Harmful Bodies](https://theaternatur-harz.de/veranstaltung/gefaehrliche-koerper/), Theaternatur Festival, Waldbühne Benneckenstein, DE**
-:   The duo *Frisch&Schick* ([Johannes Frick](https://www.instagram.com/jon_darc/) & Jasmin Schädler) presents an excerpt of their work Harmful Bodies - a promiscuous concert performance in cooperation with media artist Timo Kleinemeier and with costumes by designer [Aziz Rebar](https://www.instagram.com/aziz_rebar/) – for the first time in an analog version in the proximity of the forest bar at Theaternatur Festival. 
-Harm emanates from our bodies, an awareness that has finally emerged in the last year. The artists devote themselves to love and promiscuity with emphasis on the physical harm. Since the discovery of the HI-Virus, this subject has been undergoing a social overhaul. From the fear of a death sentence at the time to today's classification of a chronic illness, the team encounters the history of a virus that knows no morals, but which has been and continues to be confronted in a moralizing and stigmatizing manner.
-The audience is invited to a performative and musical journey that assumes different perspectives and aesthetic forms.
-
-&nbsp;
-
-:   In cooperation with *[Theater Rampe](https://theaterrampe.de/stuecke/gefaehrliche-koerper/)* and [InterAKT Initiative e.V.](https://interakt-initiative.com/).
-
-![© Timo Kleinemeier](/upcoming/positive.jpg)
-© Timo Kleinemeier
-
-&nbsp;
-
-#### **12.& 16.04.2021, [hands on aids](https://www.6tagefrei.de/programm2021/), [6 Tage Frei Festival](https://www.6tagefrei.de/programm2021/) / Club Lehmann, Stuttgart, DE**
-##### Postponed to 2022 due to COVID19.
+#### **25.& 29.04.2022, [hands on aids](https://www.6tagefrei.de/programm2021/), [6 Tage Frei Festival](https://www.6tagefrei.de/programm2021/) / Club Lehmann, Stuttgart, DE**
 :   *hands on aids* is a hybrid between party, concert, immersive theater performance and installation. In addition to the topic of HIV and AIDS prevention, Frisch & Schick deal with the history of the disease and its impact on the psyche within society since its discovery. 
 
 &nbsp;
@@ -53,8 +66,7 @@ The audience is invited to a performative and musical journey that assumes diffe
 
 &nbsp;
 
-#### **14.04.2021, [Banana Island](https://www.apocalypse.dance/projekte/banana-island),  [6 Tage Frei Festival](https://www.6tagefrei.de/programm2021/) / [Theater Rampe](https://theaterrampe.de/stuecke/banana-island/), Stuttgart, DE**
-##### Postponed to 2022 due to COVID19.
+#### **27.04.2022, [Banana Island](https://www.apocalypse.dance/projekte/banana-island),  [6 Tage Frei Festival](https://www.6tagefrei.de/programm2021/) / [Theater Rampe](https://theaterrampe.de/stuecke/banana-island/), Stuttgart, DE**
 :   *Banana Island* is a choreographic and performative investigation of the banana. As one of the most important and popular foods in the world, protagonist of colonial and neo-colonial crimes and racist and sexist attributions, and at the same time film star, comedian, art and political weapon, the banana is the bracket and center of the performance. As we slowly begin to peel, we expose the tension between pop culture and tyranny. We interrogate the glamorous appearance of the banana and contextualize the opposites united in it.
 
 &nbsp;
