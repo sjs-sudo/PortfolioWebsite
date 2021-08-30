@@ -12,7 +12,7 @@ draft: false
 
 [Langenfelder](http://www.langenfelder.de/content/langenfelder_lichtenberg.html) & [Lichtenberg](https://sophielichtenberg.de/) stage FANSHOP, a recorded, immersive spatial installation in urban space. The focus is on the question of access and intervention possibilities of a totalitarian state in and on the private reproductive body. The focus of the preceding long-term research was the exemplary examination of the myth of pregnancy doping. This myth states that female athletes in the past entered competitions pregnant in order to improve their performance. In collaboration with associated artists, the duo pursues this myth further in a fictional thought experiment, examining it in the field of tension between subjugation and self-empowerment and placing it alongside the biographical narrative of an escape. Both stories are united by the protagonists' striving for freedom and a pregnancy.
 
-![Kinder der Olympe, © Timothée Deliah Spiegelbach](/upcoming/olympe.png)
+![Kinder der Olympe, © Timothée Deliah Spiegelbach](/upcoming/olympe.jpg)
 © Timothée Deliah Spiegelbach
 
 &nbsp;
@@ -30,7 +30,7 @@ draft: false
 
 :   Funded by the *City of Stuttgart*.
 
-![Stuttgarter Hexenweg © Christina Mäckelburg](/upcoming/shw.png)
+![Stuttgarter Hexenweg © Christina Mäckelburg](/upcoming/shw.jpg)
 © Christina Mäckelburg
 
 &nbsp;

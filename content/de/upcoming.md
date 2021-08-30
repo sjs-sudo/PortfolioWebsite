@@ -12,7 +12,7 @@ draft: false
 
 [Langenfelder](http://www.langenfelder.de/content/langenfelder_lichtenberg.html) & [Lichtenberg](https://sophielichtenberg.de/) inszenieren mit FANSHOP eine bespielte, immersive Rauminstallation im Stadtraum. Im Zentrum steht dabei die Frage nach den Zu- und Eingriffsmöglichkeiten eines totalitären Staates in und auf den privaten reproduktionsfähigen Körper. Schwerpunkt der vorausgegangen Langzeitrecherche war die exemplarische Auseinandersetzung mit dem Mythos des Schwangerschaftsdopings. Dieser besagt, dass Sportlerinnen in der Vergangenheit zwecks Leistungssteigerung zu Wettkämpfen schwanger angetreten seien. Das Duo verfolgt in Zusammenarbeit mit assoziierten Künstler:innen diesen Mythos in einem fiktiven Gedankenexperiment weiter, untersucht ihn im Spannungsfeld zwischen Unterwerfung und Selbstermächtigung und stellt ihm die biografische Erzählung einer Flucht beiseite. Beide Geschichten eint das Freiheitsstreben ihrer Protagonistinnen und eine Schwangerschaft.
 
-![Kinder der Olympe, © Timothée Deliah Spiegelbach](/upcoming/olympe.png)
+![Kinder der Olympe, © Timothée Deliah Spiegelbach](/upcoming/olympe.jpg)
 © Timothée Deliah Spiegelbach
 
 &nbsp;
@@ -30,7 +30,7 @@ draft: false
 
 :   Gefördert durch das *Kulturamt der Landeshauptstadt Stuttgart*.
 
-![Stuttgarter Hexenweg © Christina Mäckelburg](/upcoming/shw.png)
+![Stuttgarter Hexenweg © Christina Mäckelburg](/upcoming/shw.jpg)
 © Christina Mäckelburg
 
 &nbsp;
