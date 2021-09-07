@@ -30,7 +30,7 @@ draft: false
 
 :   Funded by the *City of Stuttgart*.
 
-![Stuttgarter Hexenweg © Christina Mäckelburg](/upcoming/shw.jpg)
+![Stuttgarter Hexenweg © Christina Mäckelburg](/upcoming/shw.gif)
 © Christina Mäckelburg
 
 &nbsp;

@@ -30,7 +30,7 @@ draft: false
 
 :   Gefördert durch das *Kulturamt der Landeshauptstadt Stuttgart*.
 
-![Stuttgarter Hexenweg © Christina Mäckelburg](/upcoming/shw.jpg)
+![Stuttgarter Hexenweg © Christina Mäckelburg](/upcoming/shw.gif)
 © Christina Mäckelburg
 
 &nbsp;
