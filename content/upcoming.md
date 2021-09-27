@@ -27,6 +27,16 @@ draft: false
 
 &nbsp;
 
+#### **04.10.2021, [XCHANGES Xhoch1](https://schwankhalle.de/xhoch1), Bremen, DE** 
+:   X-Changes is a newly founded event series for contemporary music, sound art, performance and adjoining disciplines. Young artists from the independent scenes in Bremen and Stuttgart are invited to organize evenings in the respective other city to present themselves and make connections. The series grasps itself as a platform for a generation of artists seeking alternatives to the established art business and to create the space for realizing their ideas and projects on their own. For this purpose, X-Changes seeks to be a free space for experimentation and simultaneously contribute to the creation of long-term connections and working structures
+
+:   An event by Projektgruppe Neue Musik (PGNM).
+
+![XCHANGES Xhoch1 © PGNM](/upcoming/xchanges.gif)
+© PGNM
+
+&nbsp;
+
 #### **03./04./05.12.2021, [Wunderland](https://www.apocalypse.dance/projekte/wunderland), Theater Rampe, Stuttgart, DE**
 :   *Wunderland* is the newest text by the author Mugehta Gachago which he specifically
  wrote for the performance collective *die apokalyptischen tänzerin*nen*. Loosely based on Alice in Wonderland, the author invites the audience into a world where standards of good and evil are dissolved. 

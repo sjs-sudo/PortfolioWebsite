@@ -25,6 +25,16 @@ draft: false
 
 &nbsp;
 
+#### **04.10.2021, [XCHANGES Xhoch1](https://schwankhalle.de/xhoch1), Bremen, DE** 
+:   X-Changes ist eine neu gegründete Veranstaltungsreihe für aktuelle Musik, Klangkunst, Performance und angrenzende Disziplinen. Junge Künstler*innen aus den Freien Szenen von Bremen und Stuttgart werden eingeladen, in der jeweils anderen Stadt Abende zu gestalten, um sich zu präsentieren und zu vernetzen. Die Reihe versteht sich als Plattform für eine Künstler*innengeneration, die Alternativen zum etablierten Kunstbetrieb sucht und sich den Raum für die Verwirklichung ihrer Ideen und Projekte selbst schafft. X-Changes will hierfür ein freier Versuchsraum sein und zugleich dazu beitragen, langfristige Verbindungen und Arbeitsstrukturen entstehen zu lassen.
+
+:   Eine Veranstaltung der Projektgruppe Neue Musik (PGNM).
+
+![XCHANGES Xhoch1 © PGNM](/upcoming/xchanges.gif)
+© PGNM
+
+&nbsp;
+
 #### **03./04./05.12.2021, [Wunderland](https://www.apocalypse.dance/projekte/wunderland), Theater Rampe, Stuttgart, DE**
 :  Die feministische Influencerin Alice wacht im Bett der Weißen Königin auf und muss sich direkt an der abenteuerlichen Suche nach der Blume des Lebens beteiligen. Aber in Wunderland ist nichts wie es scheint. Obwohl es keine Grenzen gibt und das Land sich augenscheinlich vom Konzept des Nationalstaats distanziert, markieren sowohl die Rote als auch die Weiße Königin klare Herrschaftsansprüche. Gut scheint auf jedenfall niemand zu sein. Die Weiße Königin steckt heimlich mit dem Joker unter einer Decke und zahlt vermutlich nicht den Mindestlohn, die Rote Königin hält den Vater von Pablo und Bablo gefangen, um Bablo als Bediensteten festzuhalten und die Blume des Lebens isst zu viele Burger. Außerdem fahren wirklich immer alle mit dem Auto – aber eigentlich ist das ja gut in Wunderland. Und sogar Alice darf selbst ans Steuer eines Rennautos, obwohl sie zuhause schon mehrfach durch die Fahrprüfung gefallen ist und eigentlich lieber E-Bike fährt.
 
