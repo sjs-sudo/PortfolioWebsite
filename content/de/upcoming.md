@@ -30,7 +30,7 @@ draft: false
 
 :   Eine Veranstaltung der Projektgruppe Neue Musik (PGNM).
 
-![XCHANGES Xhoch1 © PGNM](/upcoming/xchanges.gif)
+![XCHANGES Xhoch1 © PGNM](/upcoming/xchanges.png)
 © PGNM
 
 &nbsp;
