@@ -7,14 +7,6 @@ draft: false
 
 # What's happening?
 
-#### **10.-13. & 16.-19.09.2021, [Kinder der Olypme – Fanshop](https://theaterhausg7.cortex-tickets.de/), Mannheim, DE** 
-:   A fanshop in Mannheim: you are greeted by a woman, a saleswoman. She initiates a conversation, leads you through the shop, advertises her products. Every item tells a story. The woman's name is Olympe. Olympe is more than an employee: Olympe is an athlete, Olympe sprints, is a refugee. Olympe is a brand. Alternating between self and other, she embodies various narratives that imprison her in her place of worship or bring her freedom. 
-
-[Langenfelder](http://www.langenfelder.de/content/langenfelder_lichtenberg.html) & [Lichtenberg](https://sophielichtenberg.de/) stage FANSHOP, a recorded, immersive spatial installation in urban space. The focus is on the question of access and intervention possibilities of a totalitarian state in and on the private reproductive body. The focus of the preceding long-term research was the exemplary examination of the myth of pregnancy doping. This myth states that female athletes in the past entered competitions pregnant in order to improve their performance. In collaboration with associated artists, the duo pursues this myth further in a fictional thought experiment, examining it in the field of tension between subjugation and self-empowerment and placing it alongside the biographical narrative of an escape. Both stories are united by the protagonists' striving for freedom and a pregnancy.
-
-![Kinder der Olympe, © Timothée Deliah Spiegelbach](/upcoming/olympe.jpg)
-© Timothée Deliah Spiegelbach
-
 &nbsp;
 
 #### **26. & 29.09.2021, [Stuttgart witch trail. A performative journey to old and new motives of the witch.](https://stuttgarterhexenweg.eventbrite.de), Stuttgart, DE** 

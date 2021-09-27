@@ -7,16 +7,6 @@ draft: false
 
 # Aktuelle Veranstaltungen 
 
-#### **10.-13. & 16.-19.09.2021, [Kinder der Olypme – Fanshop](https://theaterhausg7.cortex-tickets.de/), Mannheim, DE** 
-:   Ein Fanshop in Mannheim: Es empfängt Sie eine Frau, eine Verkäuferin. Sie eröffnet das Gespräch, führt sie durch die Räume, bewirbt ihre Produkte. Jeder Gegenstand erzählt eine Geschichte. Der Name der Frau ist Olympe. Olympe ist mehr als eine Angestellte: Olympe ist Sportlerin, Olympe sprintet, ist eine Geflüchtete. Olympe ist eine Marke. Im Wechsel von Selbst- und Fremdbestimmung verkörpert sie verschiedene Narrative, die sie in ihrem Kultort gefangen halten oder ihr Freiheit bringen. 
-
-[Langenfelder](http://www.langenfelder.de/content/langenfelder_lichtenberg.html) & [Lichtenberg](https://sophielichtenberg.de/) inszenieren mit FANSHOP eine bespielte, immersive Rauminstallation im Stadtraum. Im Zentrum steht dabei die Frage nach den Zu- und Eingriffsmöglichkeiten eines totalitären Staates in und auf den privaten reproduktionsfähigen Körper. Schwerpunkt der vorausgegangen Langzeitrecherche war die exemplarische Auseinandersetzung mit dem Mythos des Schwangerschaftsdopings. Dieser besagt, dass Sportlerinnen in der Vergangenheit zwecks Leistungssteigerung zu Wettkämpfen schwanger angetreten seien. Das Duo verfolgt in Zusammenarbeit mit assoziierten Künstler:innen diesen Mythos in einem fiktiven Gedankenexperiment weiter, untersucht ihn im Spannungsfeld zwischen Unterwerfung und Selbstermächtigung und stellt ihm die biografische Erzählung einer Flucht beiseite. Beide Geschichten eint das Freiheitsstreben ihrer Protagonistinnen und eine Schwangerschaft.
-
-![Kinder der Olympe, © Timothée Deliah Spiegelbach](/upcoming/olympe.jpg)
-© Timothée Deliah Spiegelbach
-
-&nbsp;
-
 #### **26. & 29.09.2021, [Stuttgarter Hexenweg. Eine inszenierte Reise zu alten und neuen Motiven des Hexentums](https://stuttgarterhexenweg.eventbrite.de), Stuttgart, DE** 
 :   Im Begriff der Hexe begegnen sich historische Phantasmen und aktuelle Strömungen. Gemeinsam nehmen wir die Spur der Hexen auf und suchen nach deren widerständigem Potential. Wir betrachten verschiedene Adaptionen des Hexenbildes, auch im Hinblick darauf, inwiefern sie bedenkliche Stereotypen wiederholen. An besonderen Stellen der Stadt lernen wir Akteurinnen kennen, die eigene Zugänge dazu gefunden haben und zur Diskussion stellen. So kommen auf dieser Entdeckungsreise wissenschaftliche, popkulturelle und lebenspraktische Ansätze zusammen und lenken unseren Blick auf ein vielgestaltiges und ideenreiches Hexengebiet.
 
