@@ -20,7 +20,7 @@ draft: false
 
 :   Gefördert durch das *Kulturamt der Landeshauptstadt Stuttgart*, den *Landesverband Freie Tanz- und Theaterschaffende Baden-Württemberg e.V.* aus Mitteln des *Ministeriums für Wissenschaft, Forschung und Kunst des Landes Baden-Württemberg*, und den *Fonds Soziokultur e.V.*
 
-![Wunderland, © Jasmina Begović](/upcoming/wunderland.gif)
+![Wunderland, © Jasmina Begović](/upcoming/wunderlanddezember.gif)
 © [Jasmina Begović](https://www.instagram.com/jasmina.beg/)
 
 &nbsp;

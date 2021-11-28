@@ -19,7 +19,7 @@ draft: false
 &nbsp;
 :   Funded by the *City of Stuttgart*, by the *Association of Independent Dance and Theatre Creators in Baden-Württemberg* through means of the *State Ministry of Baden-Wuerttemberg for Sciences, Research and Arts* and by *Fonds Socioculture e.V.*
 
-![Wunderland, © Jasmina Begović](/upcoming/wunderland.gif)
+![Wunderland, © Jasmina Begović](/upcoming/wunderlanddezember.gif)
 © [Jasmina Begović](https://www.instagram.com/jasmina.beg/)
 
 &nbsp;
