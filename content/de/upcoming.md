@@ -7,32 +7,6 @@ draft: false
 
 # Aktuelle Veranstaltungen 
 
-#### **26. & 29.09.2021, [Stuttgarter Hexenweg. Eine inszenierte Reise zu alten und neuen Motiven des Hexentums](https://stuttgarterhexenweg.eventbrite.de), Stuttgart, DE** 
-:   Im Begriff der Hexe begegnen sich historische Phantasmen und aktuelle Strömungen. Gemeinsam nehmen wir die Spur der Hexen auf und suchen nach deren widerständigem Potential. Wir betrachten verschiedene Adaptionen des Hexenbildes, auch im Hinblick darauf, inwiefern sie bedenkliche Stereotypen wiederholen. An besonderen Stellen der Stadt lernen wir Akteurinnen kennen, die eigene Zugänge dazu gefunden haben und zur Diskussion stellen. So kommen auf dieser Entdeckungsreise wissenschaftliche, popkulturelle und lebenspraktische Ansätze zusammen und lenken unseren Blick auf ein vielgestaltiges und ideenreiches Hexengebiet.
-
-:   Ein Projekt von [Pia Lanzinger](http://www.pialanzinger.de/) und [Jasmin Schädler](https://jasmin-schaedler.com/).
-
-&nbsp;
-
-:   In Kooperation mit der [Kunststiftung Baden-Württemberg](https://www.kunststiftung.de/) und dem [FF*GZ](https://www.ffgzstuttgart.de/festival/).
-
-&nbsp;
-
-:   Gefördert durch das *Kulturamt der Landeshauptstadt Stuttgart*.
-
-![Stuttgarter Hexenweg © Christina Mäckelburg](/upcoming/shw.gif)
-© Christina Mäckelburg
-
-&nbsp;
-
-#### **04.10.2021, [XCHANGES Xhoch1](https://schwankhalle.de/xhoch1), Bremen, DE** 
-:   X-Changes ist eine neu gegründete Veranstaltungsreihe für aktuelle Musik, Klangkunst, Performance und angrenzende Disziplinen. Junge Künstler*innen aus den Freien Szenen von Bremen und Stuttgart werden eingeladen, in der jeweils anderen Stadt Abende zu gestalten, um sich zu präsentieren und zu vernetzen. Die Reihe versteht sich als Plattform für eine Künstler*innengeneration, die Alternativen zum etablierten Kunstbetrieb sucht und sich den Raum für die Verwirklichung ihrer Ideen und Projekte selbst schafft. X-Changes will hierfür ein freier Versuchsraum sein und zugleich dazu beitragen, langfristige Verbindungen und Arbeitsstrukturen entstehen zu lassen.
-
-:   Eine Veranstaltung der Projektgruppe Neue Musik (PGNM).
-
-![XCHANGES Xhoch1 © PGNM](/upcoming/xchanges.png)
-© PGNM
-
 &nbsp;
 
 #### **03./04./05.12.2021, [Wunderland](https://www.apocalypse.dance/projekte/wunderland), Theater Rampe, Stuttgart, DE**
@@ -50,6 +24,21 @@ draft: false
 © [Jasmina Begović](https://www.instagram.com/jasmina.beg/)
 
 &nbsp;
+
+#### **16. & 17.12.2021, [Gefährliche Körper](https://www.zeitraumexit.de/veranstaltung/gefaehrliche-koerper), zeitraumexit, Mannheim, DE**
+:   Das Duo *Frisch&Schick* ([Johannes Frick](https://www.instagram.com/jon_darc/) & Jasmin Schädler) präsentierte Auszüge aus seiner Arbeit *Gefährliche Körper* – eine promiskuitive Konzertperformance in Kooperation mit dem Medienkünstler Timo Kleinemeier, mit Kostümen des Designers [Aziz Rebar](https://www.instagram.com/aziz_rebar/) – das erste mal analog in der unmittelbaren Nähe der Waldbar des Naturtheater Festivals.  
+Von unseren Körpern geht Gefahr aus, dieses Bewusstsein hat sich im letzten Jahr endgültig eingestellt. Die Künstler\*innen widmen sich der Liebe und der Freizügigkeit mit Blick auf die körperlichen Gefahren, die seit der Entdeckung das HI-Virus einer gesellschaftlichen Überarbeitung unterzogen wurden. Von der damaligen Angst eines Todesurteils bis hin zur heutigen Einstufung einer chronischen Erkrankung begegnet das Team der Geschichte eines Virus, der keine Moral kennt, dem aber immer wieder moralisierend und stigmatisierend begegnet wurde und wird. 
+Das Publikum wird eingeladen zu einer performativen und musikalischen Reise, die verschiedene Blickwinkel und ästhetische Formen einnimmt.
+
+&nbsp;
+
+:   In Kooperation mit dem *[Theater Rampe](https://theaterrampe.de/stuecke/gefaehrliche-koerper/)*, [InterAKT Initiative e.V.](https://interakt-initiative.com/) und [AIDS-Hilfe Stuttgart](http://aidshilfe-stuttgart.de/).
+
+![© Timo Kleinemeier](/upcoming/driprop.jpg)
+© Timo Kleinemeier
+
+&nbsp;
+
 
 #### **25.& 29.04.2022, [hands on aids](https://www.6tagefrei.de/programm2021/), [6 Tage Frei Festival](https://www.6tagefrei.de/programm2021/) / Club Lehmann, Stuttgart, DE**
 ##### Aufgrund von COVID19 Verschoben auf 2022.

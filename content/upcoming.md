@@ -9,34 +9,6 @@ draft: false
 
 &nbsp;
 
-#### **26. & 29.09.2021, [Stuttgart witch trail. A performative journey to old and new motives of the witch.](https://stuttgarterhexenweg.eventbrite.de), Stuttgart, DE** 
-:   In the term witch, historical phantasms and current tendencies encounter each other. Together we trace the history of witches and search for their potential for resistance. We will look at different adaptations of the image of the witch, also with regard to the extent to which they repeat questionable stereotypes. At distinctive places in the city, we get to know female actors who have found their own approaches to the subject and put them up for discussion. Thus, scientific, pop-cultural and practical approaches come together on this journey of discovery and direct our gaze to a multifaceted and imaginative perspective on witches.
-
-:   A project by [Pia Lanzinger](http://www.pialanzinger.de/) and [Jasmin Schädler](https://jasmin-schaedler.com/).
-
-&nbsp;
-
-:   In cooperation with [Kunststiftung Baden-Württemberg](https://www.kunststiftung.de/) and [FF*GZ](https://www.ffgzstuttgart.de/festival/).
-
-&nbsp;
-
-:   Funded by the *City of Stuttgart*.
-
-![Stuttgarter Hexenweg © Christina Mäckelburg](/upcoming/shw.gif)
-© Christina Mäckelburg
-
-&nbsp;
-
-#### **04.10.2021, [XCHANGES Xhoch1](https://schwankhalle.de/xhoch1), Bremen, DE** 
-:   X-Changes is a newly founded event series for contemporary music, sound art, performance and adjoining disciplines. Young artists from the independent scenes in Bremen and Stuttgart are invited to organize evenings in the respective other city to present themselves and make connections. The series grasps itself as a platform for a generation of artists seeking alternatives to the established art business and to create the space for realizing their ideas and projects on their own. For this purpose, X-Changes seeks to be a free space for experimentation and simultaneously contribute to the creation of long-term connections and working structures
-
-:   An event by Projektgruppe Neue Musik (PGNM).
-
-![XCHANGES Xhoch1 © PGNM](/upcoming/xchanges.png)
-© PGNM
-
-&nbsp;
-
 #### **03./04./05.12.2021, [Wunderland](https://www.apocalypse.dance/projekte/wunderland), Theater Rampe, Stuttgart, DE**
 :   *Wunderland* is the newest text by the author Mugehta Gachago which he specifically
  wrote for the performance collective *die apokalyptischen tänzerin*nen*. Loosely based on Alice in Wonderland, the author invites the audience into a world where standards of good and evil are dissolved. 
@@ -49,6 +21,20 @@ draft: false
 
 ![Wunderland, © Jasmina Begović](/upcoming/wunderland.gif)
 © [Jasmina Begović](https://www.instagram.com/jasmina.beg/)
+
+&nbsp;
+
+#### **16. & 17.12.2021, [Harmful Bodies](https://www.zeitraumexit.de/veranstaltung/gefaehrliche-koerper), zeitraumexit, Mannheim, DE**
+:   The duo *Frisch&Schick* ([Johannes Frick](https://www.instagram.com/jon_darc/) & Jasmin Schädler) presented an excerpt of their work Harmful Bodies - a promiscuous concert performance in cooperation with media artist Timo Kleinemeier and with costumes by designer [Aziz Rebar](https://www.instagram.com/aziz_rebar/) – for the first time in an analog version in the proximity of the forest bar at Theaternatur Festival. 
+Harm emanates from our bodies, an awareness that has finally emerged in the last year. The artists devote themselves to love and promiscuity with emphasis on the physical harm. Since the discovery of the HI-Virus, this subject has been undergoing a social overhaul. From the fear of a death sentence at the time to today's classification of a chronic illness, the team encounters the history of a virus that knows no morals, but which has been and continues to be confronted in a moralizing and stigmatizing manner.
+The audience is invited to a performative and musical journey that assumes different perspectives and aesthetic forms.
+
+&nbsp;
+
+:   In cooperation with *[Theater Rampe](https://theaterrampe.de/stuecke/gefaehrliche-koerper/)*, [InterAKT Initiative e.V.](https://interakt-initiative.com/) and [AIDS-Hilfe Stuttgart](http://aidshilfe-stuttgart.de/).
+
+![© Timo Kleinemeier](/upcoming/driprop.jpg)
+© Timo Kleinemeier
 
 &nbsp;
 
