@@ -9,24 +9,8 @@ draft: false
 
 &nbsp;
 
-#### **03./04./05.12.2021, [Wunderland](https://www.apocalypse.dance/projekte/wunderland), Theater Rampe, Stuttgart, DE**
-:  Die feministische Influencerin Alice wacht im Bett der Weißen Königin auf und muss sich direkt an der abenteuerlichen Suche nach der Blume des Lebens beteiligen. Aber in Wunderland ist nichts wie es scheint. Obwohl es keine Grenzen gibt und das Land sich augenscheinlich vom Konzept des Nationalstaats distanziert, markieren sowohl die Rote als auch die Weiße Königin klare Herrschaftsansprüche. Gut scheint auf jedenfall niemand zu sein. Die Weiße Königin steckt heimlich mit dem Joker unter einer Decke und zahlt vermutlich nicht den Mindestlohn, die Rote Königin hält den Vater von Pablo und Bablo gefangen, um Bablo als Bediensteten festzuhalten und die Blume des Lebens isst zu viele Burger. Außerdem fahren wirklich immer alle mit dem Auto – aber eigentlich ist das ja gut in Wunderland. Und sogar Alice darf selbst ans Steuer eines Rennautos, obwohl sie zuhause schon mehrfach durch die Fahrprüfung gefallen ist und eigentlich lieber E-Bike fährt.
-
-&nbsp;
-
-:   Ein Projekt von [die apokalyptische tänzerin\*nen](https://www.apocalypse.dance/) und Produktionsbüro [schæfer&sœhne](http://www.ae-oe.de/).
-
-&nbsp;
-
-:   Gefördert durch das *Kulturamt der Landeshauptstadt Stuttgart*, den *Landesverband Freie Tanz- und Theaterschaffende Baden-Württemberg e.V.* aus Mitteln des *Ministeriums für Wissenschaft, Forschung und Kunst des Landes Baden-Württemberg*, und den *Fonds Soziokultur e.V.*
-
-![Wunderland, © Jasmina Begović](/upcoming/wunderlanddezember.gif)
-© [Jasmina Begović](https://www.instagram.com/jasmina.beg/)
-
-&nbsp;
-
 #### **16. & 17.12.2021, [Gefährliche Körper](https://www.zeitraumexit.de/veranstaltung/gefaehrliche-koerper), zeitraumexit, Mannheim, DE**
-:   Das Duo *Frisch&Schick* ([Johannes Frick](https://www.instagram.com/jon_darc/) & Jasmin Schädler) präsentierte Auszüge aus seiner Arbeit *Gefährliche Körper* – eine promiskuitive Konzertperformance in Kooperation mit dem Medienkünstler Timo Kleinemeier, mit Kostümen des Designers [Aziz Rebar](https://www.instagram.com/aziz_rebar/) – das erste mal analog in der unmittelbaren Nähe der Waldbar des Naturtheater Festivals.  
+:   Das Duo *Frisch&Schick* ([Johannes Frick](https://www.instagram.com/jon_darc/) & Jasmin Schädler) präsentierte Auszüge aus seiner Arbeit *Gefährliche Körper* – eine promiskuitive Konzertperformance in Kooperation mit dem Medienkünstler Timo Kleinemeier, mit Kostümen des Designers [Aziz Rebar](https://www.instagram.com/aziz_rebar/).  
 Von unseren Körpern geht Gefahr aus, dieses Bewusstsein hat sich im letzten Jahr endgültig eingestellt. Die Künstler\*innen widmen sich der Liebe und der Freizügigkeit mit Blick auf die körperlichen Gefahren, die seit der Entdeckung das HI-Virus einer gesellschaftlichen Überarbeitung unterzogen wurden. Von der damaligen Angst eines Todesurteils bis hin zur heutigen Einstufung einer chronischen Erkrankung begegnet das Team der Geschichte eines Virus, der keine Moral kennt, dem aber immer wieder moralisierend und stigmatisierend begegnet wurde und wird. 
 Das Publikum wird eingeladen zu einer performativen und musikalischen Reise, die verschiedene Blickwinkel und ästhetische Formen einnimmt.
 
