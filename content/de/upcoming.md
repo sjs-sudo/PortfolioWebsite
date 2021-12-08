@@ -16,7 +16,7 @@ Das Publikum wird eingeladen zu einer performativen und musikalischen Reise, die
 
 &nbsp;
 
-:   In Kooperation mit dem *[Theater Rampe](https://theaterrampe.de/stuecke/gefaehrliche-koerper/)*, [InterAKT Initiative e.V.](https://interakt-initiative.com/) und [AIDS-Hilfe Stuttgart](http://aidshilfe-stuttgart.de/).
+:   In Kooperation mit dem [Theater Rampe](https://theaterrampe.de/stuecke/gefaehrliche-koerper/), [InterAKT Initiative e.V.](https://interakt-initiative.com/) und [AIDS-Hilfe Stuttgart](http://aidshilfe-stuttgart.de/).
 
 ![© Timo Kleinemeier](/upcoming/driprop.jpg)
 © Timo Kleinemeier
