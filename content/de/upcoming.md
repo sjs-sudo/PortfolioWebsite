@@ -9,20 +9,27 @@ draft: false
 
 &nbsp;
 
-#### **16. & 17.12.2021, [Gefährliche Körper](https://www.zeitraumexit.de/veranstaltung/gefaehrliche-koerper), zeitraumexit, Mannheim, DE**
-:   Das Duo *Frisch&Schick* ([Johannes Frick](https://www.instagram.com/jon_darc/) & Jasmin Schädler) präsentierte Auszüge aus seiner Arbeit *Gefährliche Körper* – eine promiskuitive Konzertperformance in Kooperation mit dem Medienkünstler Timo Kleinemeier, mit Kostümen des Designers [Aziz Rebar](https://www.instagram.com/aziz_rebar/).  
-Von unseren Körpern geht Gefahr aus, dieses Bewusstsein hat sich im letzten Jahr endgültig eingestellt. Die Künstler\*innen widmen sich der Liebe und der Freizügigkeit mit Blick auf die körperlichen Gefahren, die seit der Entdeckung das HI-Virus einer gesellschaftlichen Überarbeitung unterzogen wurden. Von der damaligen Angst eines Todesurteils bis hin zur heutigen Einstufung einer chronischen Erkrankung begegnet das Team der Geschichte eines Virus, der keine Moral kennt, dem aber immer wieder moralisierend und stigmatisierend begegnet wurde und wird. 
-Das Publikum wird eingeladen zu einer performativen und musikalischen Reise, die verschiedene Blickwinkel und ästhetische Formen einnimmt.
+#### **21.12.2020, vom Aufgang der Sonne, [Künstlerhaus](https://kuenstlerhaus.de/), Stuttgart, DE**
+:   ”Vom Aufgang der Sonne" entstand als Antwort auf den 250. Geburtstag Hegels im Jahr 2020. Das n.n.n *collective* (Susanne Brendel, Julia Schäfer & Jasmin Schädler) haben dies zum Anlass genommen, einen kritischen Blick auf Hegel und seine Geschichtsphilosophie zu werfen. Die Publikation konzentriert sich auf Perspektiven, die durch Hegel und sein Erbe überschrieben oder unsichtbar gemacht wurden. 
+Daher wird der haitianischen Revolution viel Raum gegeben, und zwar in Form eines redigierten Transkripts des Symposiums Mit Haiti an der Hegel Bar. Zu dieser Veranstaltung, die im Mai 2020 stattfand, haben wir Dr. Vanessa E. Thompson, Matti Traußneck und Dr. Jeanette Ehrmann eingeladen. Außerdem enthält die Publikation ein Gespräch mit der Geografin und Künstlerin [Dr. Sasha Engelmann](https://www.instagram.com/sasha_intheair/), in dem wir die Politisierung von Himmelsrichtungen und Kartographie hinterfragen. Darüber hinaus sind in der Publikation Ausstellungsansichten einer Ausstellung im Projektraum der Kunstverein Wagenhalle e.V. im November 2020 eingestreut, die aufgrund der zweiten Schließung geschlossen bleiben musste. 
+Darüber hinaus fordert das Format der Publikation Konventionen der zeitlichen Linearität heraus, sowohl in Bezug auf die Gestaltung als auch auf eine eigens entwickelte Literaturkarte. Die aufwändige Gestaltung der Publikation wurde von HuM Collective entwickelt und umgesetzt 
+Vom Aufgang der Sonne erscheint zweisprachig in Englisch und Deutsch.
+Am 21. Dezember 2021 wird die Publikation der Öffentlichkeit vorgestellt und kann auch käuflich erworben werden. Zu diesem Anlass öffnen wir unser Atelier von 16.00 - 21.00 Uhr im Künstlerhaus Stuttgart (Reuchlinstraße 4B, 3. Stock). Im Künstlerhaus gilt die 2G+ Regel.
+Der Online-Verkauf wird ab Januar 2022 möglich sein. Bis dahin kann die Publikation (17,00€) auch über collective.n.n.n@gmail.com bestellt werden.
+
+:   Ein Projekt von [n.n.n. *collective*](https://www.instagram.com/_____n.n.n.____/) ([Julia Schäfer](http://www.julia-schaefer.com/) & Susanne Brendel und Jasmin Schädler) und [InterAKT Initiative e.V.](https://interakt-initiative.com/)
 
 &nbsp;
-
-:   In Kooperation mit dem [Theater Rampe](https://theaterrampe.de/stuecke/gefaehrliche-koerper/), [InterAKT Initiative e.V.](https://interakt-initiative.com/) und [AIDS-Hilfe Stuttgart](http://aidshilfe-stuttgart.de/).
-
-![© Timo Kleinemeier](/upcoming/driprop.jpg)
-© Timo Kleinemeier
-
+:   In cooperation with [Kunstverein Wagenhalle](http://kunstverein-wagenhalle.de/) and [Theater Rampe](https://theaterrampe.de/).
 &nbsp;
 
+:   Gefördert durch das *Kulturamt der Landeshauptstadt Stuttgart* und das *Ministerium für Wissenschaft, Forschung und Kunst Baden-Württemberg*. Mit freundlicher Unterstützung des *Kunstverein Wagenhalle* und der *LBBW-Stiftung*. 
+
+![© n.n.n. *collective*](/upcoming/vadsr.jpg)
+© n.n.n. *collective*
+
+
+&nbsp;
 
 #### **25.& 29.04.2022, [hands on aids](https://www.6tagefrei.de/programm2021/), [6 Tage Frei Festival](https://www.6tagefrei.de/programm2021/) / Club Lehmann, Stuttgart, DE**
 ##### Aufgrund von COVID19 Verschoben auf 2022.

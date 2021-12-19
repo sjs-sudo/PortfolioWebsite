@@ -9,17 +9,28 @@ draft: false
 
 &nbsp;
 
-#### **16. & 17.12.2021, [Harmful Bodies](https://www.zeitraumexit.de/veranstaltung/gefaehrliche-koerper), zeitraumexit, Mannheim, DE**
-:   The duo *Frisch&Schick* ([Johannes Frick](https://www.instagram.com/jon_darc/) & Jasmin Schädler) presented an excerpt of their work Harmful Bodies - a promiscuous concert performance in cooperation with media artist Timo Kleinemeier and with costumes by designer [Aziz Rebar](https://www.instagram.com/aziz_rebar/). 
-Harm emanates from our bodies, an awareness that has finally emerged in the last year. The artists devote themselves to love and promiscuity with emphasis on the physical harm. Since the discovery of the HI-Virus, this subject has been undergoing a social overhaul. From the fear of a death sentence at the time to today's classification of a chronic illness, the team encounters the history of a virus that knows no morals, but which has been and continues to be confronted in a moralizing and stigmatizing manner.
-The audience is invited to a performative and musical journey that assumes different perspectives and aesthetic forms.
+#### **21.12.2020, vom Aufgang der Sonne, [Künstlerhaus](https://kuenstlerhaus.de/), Stuttgart, DE**
+:   *vom Aufgang der Sonne* was created as a response to the 250th anniversary of Hegel’s birthday in 2020. n.n.n. *collective* (Susanne Brendel, Julia Schäfer, Jasmin Schädler) used this opportunity to take a critical look at Hegel and his Philosophy Of History. The publication focuses on perspectives that have been overwritten or made invisible by Hegel and his legacy. 
+
+Therefore, the Haitian Revolution is given a lot of space, in the form of an edited transcript of the symposium Mit Haiti an der Hegel Bar. For this event, which took place in May 2020, we invited Dr. Vanessa E. Thompson, Matti Traußneck und Dr. Jeanette Ehrmann. Furthermore the publication contains a conversation with geographer and artist [Sasha Engelmann](https://www.instagram.com/sasha_intheair/) in which we question the politicization of cardinal compass directions and cartography. In addition, scattered throughout the publication are exhibition views of an exhibition at the project space of @kunstvereinwagenhalle in November 2020 that had to stay closed due to the second lockdown. 
+
+Moreover, the format of the publication challenges conventions of temporal linearity in terms of design as well as a specially developed literature map. The intricate design of the publication was developed and executed by @humbase
+vom Aufgang der Sonne is published bilingually in Englisch and German.
+
+On December 21, 2021 the publication will be presented to the public and can also be purchased. For this occasion we are opening our studio from 4pm - 9pm Künstlerhaus Stuttgart (Reuchlinstraße 4B, 3rd floor). At Künstlerhaus the 2G+ rule applies.
+Online sales will be available from January 2022. Until then, the publication (17,00€) can also be ordered via collective.n.n.n@gmail.com.
+ 
+—
+:   A project by [n.n.n. *collective*](https://www.instagram.com/_____n.n.n.____/) ([Julia Schäfer](http://www.julia-schaefer.com/) & Susanne Brendel and Jasmin Schädler) and [InterAKT Initiative e.V.](https://interakt-initiative.com/) i.a.
 
 &nbsp;
+:   In cooperation with [Kunstverein Wagenhalle](http://kunstverein-wagenhalle.de/) and [Theater Rampe](https://theaterrampe.de/).
 
-:   In cooperation with [Theater Rampe](https://theaterrampe.de/stuecke/gefaehrliche-koerper/), [InterAKT Initiative e.V.](https://interakt-initiative.com/) and [AIDS-Hilfe Stuttgart](http://aidshilfe-stuttgart.de/).
+&nbsp;
+:   Funded by the *City of Stuttgart* and by the *State Ministry of Baden-Wuerttemberg for Sciences, Research and Arts*. Supported by *LBBW-Foundation* and *Kunstverein Wagenhalle*.
 
-![© Timo Kleinemeier](/upcoming/driprop.jpg)
-© Timo Kleinemeier
+![© n.n.n. *collective*](/upcoming/vadsr.jpg)
+© n.n.n. *collective*
 
 &nbsp;
 
