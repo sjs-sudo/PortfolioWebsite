@@ -9,7 +9,7 @@ draft: false
 
 &nbsp;
 
-#### **21.12.2020, vom Aufgang der Sonne, [Künstlerhaus](https://kuenstlerhaus.de/), Stuttgart, DE**
+#### **21.12.2021, vom Aufgang der Sonne, [Künstlerhaus](https://kuenstlerhaus.de/), Stuttgart, DE**
 :   *vom Aufgang der Sonne* was created as a response to the 250th anniversary of Hegel’s birthday in 2020. n.n.n. *collective* (Susanne Brendel, Julia Schäfer, Jasmin Schädler) used this opportunity to take a critical look at Hegel and his Philosophy Of History. The publication focuses on perspectives that have been overwritten or made invisible by Hegel and his legacy. 
 
 Therefore, the Haitian Revolution is given a lot of space, in the form of an edited transcript of the symposium Mit Haiti an der Hegel Bar. For this event, which took place in May 2020, we invited Dr. Vanessa E. Thompson, Matti Traußneck und Dr. Jeanette Ehrmann. Furthermore the publication contains a conversation with geographer and artist [Sasha Engelmann](https://www.instagram.com/sasha_intheair/) in which we question the politicization of cardinal compass directions and cartography. In addition, scattered throughout the publication are exhibition views of an exhibition at the project space of @kunstvereinwagenhalle in November 2020 that had to stay closed due to the second lockdown. 

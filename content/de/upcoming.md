@@ -9,7 +9,7 @@ draft: false
 
 &nbsp;
 
-#### **21.12.2020, vom Aufgang der Sonne, [Künstlerhaus](https://kuenstlerhaus.de/), Stuttgart, DE**
+#### **21.12.2021, vom Aufgang der Sonne, [Künstlerhaus](https://kuenstlerhaus.de/), Stuttgart, DE**
 :   ”Vom Aufgang der Sonne" entstand als Antwort auf den 250. Geburtstag Hegels im Jahr 2020. Das n.n.n *collective* (Susanne Brendel, Julia Schäfer & Jasmin Schädler) haben dies zum Anlass genommen, einen kritischen Blick auf Hegel und seine Geschichtsphilosophie zu werfen. Die Publikation konzentriert sich auf Perspektiven, die durch Hegel und sein Erbe überschrieben oder unsichtbar gemacht wurden. 
 Daher wird der haitianischen Revolution viel Raum gegeben, und zwar in Form eines redigierten Transkripts des Symposiums Mit Haiti an der Hegel Bar. Zu dieser Veranstaltung, die im Mai 2020 stattfand, haben wir Dr. Vanessa E. Thompson, Matti Traußneck und Dr. Jeanette Ehrmann eingeladen. Außerdem enthält die Publikation ein Gespräch mit der Geografin und Künstlerin [Dr. Sasha Engelmann](https://www.instagram.com/sasha_intheair/), in dem wir die Politisierung von Himmelsrichtungen und Kartographie hinterfragen. Darüber hinaus sind in der Publikation Ausstellungsansichten einer Ausstellung im Projektraum der Kunstverein Wagenhalle e.V. im November 2020 eingestreut, die aufgrund der zweiten Schließung geschlossen bleiben musste. 
 Darüber hinaus fordert das Format der Publikation Konventionen der zeitlichen Linearität heraus, sowohl in Bezug auf die Gestaltung als auch auf eine eigens entwickelte Literaturkarte. Die aufwändige Gestaltung der Publikation wurde von HuM Collective entwickelt und umgesetzt 
