@@ -9,24 +9,26 @@ draft: false
 
 &nbsp;
 
-#### **21.12.2021, vom Aufgang der Sonne, [Künstlerhaus](https://kuenstlerhaus.de/), Stuttgart, DE**
-:   ”Vom Aufgang der Sonne" entstand als Antwort auf den 250. Geburtstag Hegels im Jahr 2020. Das n.n.n *collective* (Susanne Brendel, Julia Schäfer & Jasmin Schädler) haben dies zum Anlass genommen, einen kritischen Blick auf Hegel und seine Geschichtsphilosophie zu werfen. Die Publikation konzentriert sich auf Perspektiven, die durch Hegel und sein Erbe überschrieben oder unsichtbar gemacht wurden. 
-Daher wird der haitianischen Revolution viel Raum gegeben, und zwar in Form eines redigierten Transkripts des Symposiums Mit Haiti an der Hegel Bar. Zu dieser Veranstaltung, die im Mai 2020 stattfand, haben wir Dr. Vanessa E. Thompson, Matti Traußneck und Dr. Jeanette Ehrmann eingeladen. Außerdem enthält die Publikation ein Gespräch mit der Geografin und Künstlerin [Dr. Sasha Engelmann](https://www.instagram.com/sasha_intheair/), in dem wir die Politisierung von Himmelsrichtungen und Kartographie hinterfragen. Darüber hinaus sind in der Publikation Ausstellungsansichten einer Ausstellung im Projektraum der Kunstverein Wagenhalle e.V. im November 2020 eingestreut, die aufgrund der zweiten Schließung geschlossen bleiben musste. 
-Darüber hinaus fordert das Format der Publikation Konventionen der zeitlichen Linearität heraus, sowohl in Bezug auf die Gestaltung als auch auf eine eigens entwickelte Literaturkarte. Die aufwändige Gestaltung der Publikation wurde von HuM Collective entwickelt und umgesetzt 
-Vom Aufgang der Sonne erscheint zweisprachig in Englisch und Deutsch.
-Am 21. Dezember 2021 wird die Publikation der Öffentlichkeit vorgestellt und kann auch käuflich erworben werden. Zu diesem Anlass öffnen wir unser Atelier von 16.00 - 21.00 Uhr im Künstlerhaus Stuttgart (Reuchlinstraße 4B, 3. Stock). Im Künstlerhaus gilt die 2G+ Regel.
-Der Online-Verkauf wird ab Januar 2022 möglich sein. Bis dahin kann die Publikation (17,00€) auch über collective.n.n.n@gmail.com bestellt werden.
+#### **30.12.2021, Phasen der Rührung, [die apokalyptischen tänzerin\*nen](https://www.apocalypse.dance/projekte/phasen-der-ruehrung), Stuttgart, DE**
 
-:   Ein Projekt von [n.n.n. *collective*](https://www.instagram.com/_____n.n.n.____/) ([Julia Schäfer](http://www.julia-schaefer.com/) & Susanne Brendel und Jasmin Schädler) und [InterAKT Initiative e.V.](https://interakt-initiative.com/)
-
-&nbsp;
-:   In cooperation with [Kunstverein Wagenhalle](http://kunstverein-wagenhalle.de/) and [Theater Rampe](https://theaterrampe.de/).
+:   Das *Institut für analytische Aufführungspraxis*, kurz IAAP, lädt am 30.12.21 um 19 Uhr herzlich zur Jahresvollversammlung. Es wird gemeinsam gekocht, gegessen und übers Zuschauen gesprochen. Was haben wir dieses Jahr alles gesehen? Wie wurden wir im Theater begrüßt? Was hat uns berührt, was wurde gerührt und wo hätten wir gern mal ein wenig umgerührt? Welche Erlebnisse wollen wir wieder vergessen und welche Publikums-Situation hat am besten funktioniert? Unser Ziel ist es, gemeinsam darüber zu reflektieren wie wir uns als Publikum im Theater wahrnehmen, welche Erwartungen wir an das Theater haben und was es bedeutet, das PUBLIKUM zu sein: denn ohne – kein Theater. Gemeinsam mit ausgewählten Gästen (die Kulturjournalistin und Theaterkritikerin [Petra Mostbacher-Dix](http://sur-kultur.net/) und der Performance Künstler [Arthur Romanowski](https://www.schauspielhaus.at/rote_beete_reden)) und unterfüttert durch erste Schlüsse aus unserer Studie über das Zuschauen, werden wir über das Schauen, das Erleben, sprechen. Und wie geht das besser als beim Zusammenrühren einer Suppe, und dem anschließenden Verzehr? Selbst gekocht, warm, nicht zu heiß.Genau das richtige nach den schweren Feiertagsgerichten. 
 &nbsp;
 
-:   Gefördert durch das *Kulturamt der Landeshauptstadt Stuttgart* und das *Ministerium für Wissenschaft, Forschung und Kunst Baden-Württemberg*. Mit freundlicher Unterstützung des *Kunstverein Wagenhalle* und der *LBBW-Stiftung*. 
+:   Bitte meldet Euch bis zum 29.12.21 an unter: anmeldung@apocalypse.dance
+&nbsp;
 
-![© n.n.n. *collective*](/upcoming/vadsr.jpg)
-© n.n.n. *collective*
+:   Das Event wird über ZOOM gehostet. Der Zoom Link und das Rezept werden gemeinsam mit der Bestätigungsmail verschickt. Die Teilnehmerin*nen Zahl ist auf 10 beschränkt.
+:   Die Teilnahme an Phasen der Rührung ist kostenlos.
+:   Bei Fragen schreibt bitte mit dem Betreff “Fragen” an: anmeldung@apocalypse.dance
+&nbsp;
+
+:   Eine Veranstaltung von die *apokalyptischen tänzerin\*nen* als *Institut für analytische Aufführungspraxis*. 
+&nbsp;
+
+:   Gefördert durch das Kulturamt Stuttgart.
+
+![© die apokalyptischen tänzerin*nen](/upcoming/pdr.png)
+© die apokalyptischen tänzerin*nen
 
 
 &nbsp;

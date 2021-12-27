@@ -9,28 +9,37 @@ draft: false
 
 &nbsp;
 
-#### **21.12.2021, vom Aufgang der Sonne, [Künstlerhaus](https://kuenstlerhaus.de/), Stuttgart, DE**
-:   *vom Aufgang der Sonne* was created as a response to the 250th anniversary of Hegel’s birthday in 2020. n.n.n. *collective* (Susanne Brendel, Julia Schäfer, Jasmin Schädler) used this opportunity to take a critical look at Hegel and his Philosophy Of History. The publication focuses on perspectives that have been overwritten or made invisible by Hegel and his legacy. 
+#### **30.12.2021, Phasen der Rührung, [die apokalyptischen tänzerin\*nen](https://www.apocalypse.dance/projekte/phasen-der-ruehrung), Stuttgart, DE**
 
-Therefore, the Haitian Revolution is given a lot of space, in the form of an edited transcript of the symposium Mit Haiti an der Hegel Bar. For this event, which took place in May 2020, we invited Dr. Vanessa E. Thompson, Matti Traußneck und Dr. Jeanette Ehrmann. Furthermore the publication contains a conversation with geographer and artist [Sasha Engelmann](https://www.instagram.com/sasha_intheair/) in which we question the politicization of cardinal compass directions and cartography. In addition, scattered throughout the publication are exhibition views of an exhibition at the project space of @kunstvereinwagenhalle in November 2020 that had to stay closed due to the second lockdown. 
-
-Moreover, the format of the publication challenges conventions of temporal linearity in terms of design as well as a specially developed literature map. The intricate design of the publication was developed and executed by @humbase
-vom Aufgang der Sonne is published bilingually in Englisch and German.
-
-On December 21, 2021 the publication will be presented to the public and can also be purchased. For this occasion we are opening our studio from 4pm - 9pm Künstlerhaus Stuttgart (Reuchlinstraße 4B, 3rd floor). At Künstlerhaus the 2G+ rule applies.
-Online sales will be available from January 2022. Until then, the publication (17,00€) can also be ordered via collective.n.n.n@gmail.com.
- 
-—
-:   A project by [n.n.n. *collective*](https://www.instagram.com/_____n.n.n.____/) ([Julia Schäfer](http://www.julia-schaefer.com/) & Susanne Brendel and Jasmin Schädler) and [InterAKT Initiative e.V.](https://interakt-initiative.com/) i.a.
-
+:   The *Institut für analytische Aufführungspraxis* (Institute for Analytical Performance Practice), IAAP in short, cordially invites you to the annual general meeting on 30.12.21 at 7 pm. 
+Together we will be cooking, eating and talking about the act of spectating. What did we all spectate this year? How were we welcomed in the theater? 
+What touched us, what was touched and where would we have liked to stir a little? Which experiences do we want to forget again and which audience situation worked best? 
+Our goal is to reflect together on how we perceive ourselves as the audience in the theater, what expectations we have of the theater and what it means to be the audience: because without—no theater. 
+Together with selected guests (the cultural journalist and theater critic [Petra Mostbacher-Dix](http://sur-kultur.net/) and the performance artist [Arthur Romanowski](https://www.schauspielhaus.at/rote_beete_reden)) 
+and underpinned by initial conclusions from our study on spectating, we will talk about spectating, experiencing. 
+And how better to do that than by stirring together a soup and then eating it? Home-cooked, warm, not too hot. 
+Just the thing after those heavy holiday meals. 
 &nbsp;
-:   In cooperation with [Kunstverein Wagenhalle](http://kunstverein-wagenhalle.de/) and [Theater Rampe](https://theaterrampe.de/).
 
+: Please sign up by 29.12.21 via eMail: 
+anmeldung@apocalypse.dance
 &nbsp;
-:   Funded by the *City of Stuttgart* and by the *State Ministry of Baden-Wuerttemberg for Sciences, Research and Arts*. Supported by *LBBW-Foundation* and *Kunstverein Wagenhalle*.
 
-![© n.n.n. *collective*](/upcoming/vadsr.jpg)
-© n.n.n. *collective*
+: The event will be hosted through ZOOM. The Zoom link and recipe will be sent along with the confirmation email. 
+: The number of participants is limited to 10.
+: Participation in Phases of Stirring is free of charge.
+: If you have any questions, please write with the subject "Questions" to: 
+anmeldung@apocalypse.dance
+&nbsp;
+
+:   An event by die *apokalyptischen tänzerin\*nen* as *Institut für analytische Aufführungspraxis*. 
+&nbsp;
+
+:   Funded by the *City of Stuttgart*.
+
+![© die apokalyptischen tänzerin*nen](/upcoming/pdr.png)
+© die apokalyptischen tänzerin*nen
+
 
 &nbsp;
 
