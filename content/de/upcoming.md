@@ -19,11 +19,8 @@ denn ohne – kein Theater. Gemeinsam mit ausgewählten Gästen (die Kulturjourn
 und unterfüttert durch erste Schlüsse aus unserer Studie über das Zuschauen, werden wir über das Schauen, das Erleben, sprechen. 
 Und wie geht das besser als beim Zusammenrühren einer Suppe, und dem anschließenden Verzehr? Selbst gekocht, warm, nicht zu heiß. 
 Genau das richtige nach den schweren Feiertagsgerichten. 
-&nbsp;
 
-#### Bitte meldet Euch bis zum 29.12.21 an unter: anmeldung@apocalypse.dance
-
-&nbsp;
+##### Bitte meldet Euch bis zum 29.12.21 an unter: anmeldung@apocalypse.dance
 
 :   Das Event wird über ZOOM gehostet. Der Zoom Link und das Rezept werden gemeinsam mit der Bestätigungsmail verschickt. Die Teilnehmerin*nen Zahl ist auf 10 beschränkt.
 :   Die Teilnahme an Phasen der Rührung ist kostenlos.

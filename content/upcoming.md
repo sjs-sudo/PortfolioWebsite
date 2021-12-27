@@ -20,11 +20,7 @@ and underpinned by initial conclusions from our study on spectating, we will tal
 And how better to do that than by stirring together a soup and then eating it? Home-cooked, warm, not too hot. 
 Just the thing after those heavy holiday meals. 
 
-&nbsp;
-
-#### Please sign up by 29.12.21 via eMail: anmeldung@apocalypse.dance
-
-&nbsp;
+##### Please sign up by 29.12.21 via eMail: anmeldung@apocalypse.dance
 
 : The event will be hosted through ZOOM. The Zoom link and recipe will be sent along with the confirmation email. 
 : The number of participants is limited to 10.
