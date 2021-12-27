@@ -11,18 +11,28 @@ draft: false
 
 #### **30.12.2021, Phasen der Rührung, [die apokalyptischen tänzerin\*nen](https://www.apocalypse.dance/projekte/phasen-der-ruehrung), Stuttgart, DE**
 
-:   Das *Institut für analytische Aufführungspraxis*, kurz IAAP, lädt am 30.12.21 um 19 Uhr herzlich zur Jahresvollversammlung. Es wird gemeinsam gekocht, gegessen und übers Zuschauen gesprochen. Was haben wir dieses Jahr alles gesehen? Wie wurden wir im Theater begrüßt? Was hat uns berührt, was wurde gerührt und wo hätten wir gern mal ein wenig umgerührt? Welche Erlebnisse wollen wir wieder vergessen und welche Publikums-Situation hat am besten funktioniert? Unser Ziel ist es, gemeinsam darüber zu reflektieren wie wir uns als Publikum im Theater wahrnehmen, welche Erwartungen wir an das Theater haben und was es bedeutet, das PUBLIKUM zu sein: denn ohne – kein Theater. Gemeinsam mit ausgewählten Gästen (die Kulturjournalistin und Theaterkritikerin [Petra Mostbacher-Dix](http://sur-kultur.net/) und der Performance Künstler [Arthur Romanowski](https://www.schauspielhaus.at/rote_beete_reden)) und unterfüttert durch erste Schlüsse aus unserer Studie über das Zuschauen, werden wir über das Schauen, das Erleben, sprechen. Und wie geht das besser als beim Zusammenrühren einer Suppe, und dem anschließenden Verzehr? Selbst gekocht, warm, nicht zu heiß.Genau das richtige nach den schweren Feiertagsgerichten. 
+:   Das *Institut für analytische Aufführungspraxis*, kurz IAAP, lädt am 30.12.21 um 19 Uhr herzlich zur Jahresvollversammlung. 
+Es wird gemeinsam gekocht, gegessen und übers Zuschauen gesprochen. Was haben wir dieses Jahr alles gesehen? Wie wurden wir im Theater begrüßt? 
+Was hat uns berührt, was wurde gerührt und wo hätten wir gern mal ein wenig umgerührt? Welche Erlebnisse wollen wir wieder vergessen und welche Publikums-Situation hat am besten funktioniert? 
+Unser Ziel ist es, gemeinsam darüber zu reflektieren wie wir uns als Publikum im Theater wahrnehmen, welche Erwartungen wir an das Theater haben und was es bedeutet, das PUBLIKUM zu sein: 
+denn ohne – kein Theater. Gemeinsam mit ausgewählten Gästen (die Kulturjournalistin und Theaterkritikerin [Petra Mostbacher-Dix](http://sur-kultur.net/) und der Performance Künstler [Arthur Romanowski](https://www.schauspielhaus.at/rote_beete_reden)) 
+und unterfüttert durch erste Schlüsse aus unserer Studie über das Zuschauen, werden wir über das Schauen, das Erleben, sprechen. 
+Und wie geht das besser als beim Zusammenrühren einer Suppe, und dem anschließenden Verzehr? Selbst gekocht, warm, nicht zu heiß. 
+Genau das richtige nach den schweren Feiertagsgerichten. 
 &nbsp;
 
-:   Bitte meldet Euch bis zum 29.12.21 an unter: anmeldung@apocalypse.dance
+#### Bitte meldet Euch bis zum 29.12.21 an unter: anmeldung@apocalypse.dance
+
 &nbsp;
 
 :   Das Event wird über ZOOM gehostet. Der Zoom Link und das Rezept werden gemeinsam mit der Bestätigungsmail verschickt. Die Teilnehmerin*nen Zahl ist auf 10 beschränkt.
 :   Die Teilnahme an Phasen der Rührung ist kostenlos.
 :   Bei Fragen schreibt bitte mit dem Betreff “Fragen” an: anmeldung@apocalypse.dance
+
 &nbsp;
 
 :   Eine Veranstaltung von die *apokalyptischen tänzerin\*nen* als *Institut für analytische Aufführungspraxis*. 
+
 &nbsp;
 
 :   Gefördert durch das Kulturamt Stuttgart.

@@ -19,10 +19,11 @@ Together with selected guests (the cultural journalist and theater critic [Petra
 and underpinned by initial conclusions from our study on spectating, we will talk about spectating, experiencing. 
 And how better to do that than by stirring together a soup and then eating it? Home-cooked, warm, not too hot. 
 Just the thing after those heavy holiday meals. 
+
 &nbsp;
 
-: Please sign up by 29.12.21 via eMail: 
-anmeldung@apocalypse.dance
+#### Please sign up by 29.12.21 via eMail: anmeldung@apocalypse.dance
+
 &nbsp;
 
 : The event will be hosted through ZOOM. The Zoom link and recipe will be sent along with the confirmation email. 
@@ -30,9 +31,11 @@ anmeldung@apocalypse.dance
 : Participation in Phases of Stirring is free of charge.
 : If you have any questions, please write with the subject "Questions" to: 
 anmeldung@apocalypse.dance
+
 &nbsp;
 
 :   An event by die *apokalyptischen tänzerin\*nen* as *Institut für analytische Aufführungspraxis*. 
+
 &nbsp;
 
 :   Funded by the *City of Stuttgart*.
