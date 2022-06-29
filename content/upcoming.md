@@ -9,31 +9,26 @@ draft: false
 
 &nbsp;
 
-#### **25.& 29.04.2022, [hands on aids](https://www.6tagefrei.de/programm2021/), [6 Tage Frei Festival](https://www.6tagefrei.de/programm2021/) / Club Lehmann, Stuttgart, DE**
-:   *hands on aids* is a hybrid between party, concert, immersive theater performance and installation. In addition to the topic of HIV and AIDS prevention, Frisch & Schick deal with the history of the disease and its impact on the psyche within society since its discovery. 
+#### **06.&07, 13.&14., 20.&21.08.2022, [moment.um](https://kulturrevier-harz.reservix.de/p/reservix/event/1955028), [Theaternatur Festival](https://theaternatur.de/), Benneckenstein, DE**
+:   Ist der Moment gekommen, ist der Moment um etwas nachhaltig verändern zu können?
+Verlassen wir uns auf die Natur, oder wollen wir die Kontrolle bei uns behalten? Und was ist eigentlich Natur?
+Die Pandemie hat die Wahrnehmung von Kontrolle und Kontrollverlust verändert. Was liegt in unserer Hand und was übersteigt unsere Möglichkeiten. Wir stellen uns der Angst nicht zu wissen was kommt und sehen es als Chance für die Veränderung.
+Was für Zwänge entstehen durch das Verlangen nach Kontrolle?
 
 &nbsp;
 
-:   A project by *Frisch & Schick* ([Johannes Frick](https://johannesfrick.jimdofree.com/) and Jasmin Schädler) and [InterAKT Initiative e.V.](https://interakt-initiative.com/). With Sebastiano Sing & Robyn/Hugo Le Brigand, Karimael Buledi, Helena Dadoku and Jonas Wienberg.
+#### **27.-31.10.2022, Böse Frauen,  [InterAKT Initiative](https://interakt-initiative.com/), Stuttgart, DE**
+##### Aufgrund von COVID19 Verschoben auf 2022.
+:   Sechs Performer\*innen, die eine Vielfalt von Frau*-Sein vereinen sind die Protagonist\*innen des skurrilen Kabaretts *Böse Frauen*. Musikalisch verortet zwischen experimenteller Musik und Punk, ergreifen sie die Bühne spielend und tanzend. 
 
 &nbsp;
 
-:   In collaboration with *AIDS Hilfe Stuttgart e.V*. Funded by the *City of Stuttgart* and *6 Tage Frei Festival*. Supported by *LBBW-Foundation*. 
-
-![hands on aids, © Frisch & Schick](/upcoming/hoa.png)
-© Frisch & Schick
+:   Ein Projekt von [InterAKT Initiative](https://interakt-initiative.com/).
 
 &nbsp;
 
-#### **27.04.2022, [Banana Island](https://www.apocalypse.dance/projekte/banana-island),  [6 Tage Frei Festival](https://www.6tagefrei.de/programm2021/) / [Theater Rampe](https://theaterrampe.de/stuecke/banana-island/), Stuttgart, DE**
-:   *Banana Island* is a choreographic and performative investigation of the banana. As one of the most important and popular foods in the world, protagonist of colonial and neo-colonial crimes and racist and sexist attributions, and at the same time film star, comedian, art and political weapon, the banana is the bracket and center of the performance. As we slowly begin to peel, we expose the tension between pop culture and tyranny. We interrogate the glamorous appearance of the banana and contextualize the opposites united in it.
+:   Gefördert durch das Kulturamt der Landeshauptstadt Stuttgart und den Landesverband freie Tanz- und Theaterschaffende Baden-Württemberg sowie vom Fonds Darstellende Künste aus Mitteln der Beauftragten der Bundesregierung für Kultur und Medien im Rahmen von NEUSTART KULTUR. 
 
-&nbsp;
-:   A project by [die apokalyptische tänzerin\*nen](https://www.apocalypse.dance/) and Produktionsbüro [schæfer&sœhne](http://www.ae-oe.de/).
-
-&nbsp;
-:   Funded by *6 Tage Frei Festival*.
-
-![Banana Island, © Julia Schäfer](/upcoming/BI1.jpg)
-© Julia Schäfer
+![Böse Frauen, © InterAKT](/upcoming/BF.png)
+© InterAKT
 
