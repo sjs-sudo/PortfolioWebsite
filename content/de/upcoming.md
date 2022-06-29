@@ -19,7 +19,6 @@ Was für Zwänge entstehen durch das Verlangen nach Kontrolle?
 &nbsp;
 
 #### **27.-31.10.2022, Böse Frauen,  [InterAKT Initiative](https://interakt-initiative.com/), Stuttgart, DE**
-##### Aufgrund von COVID19 Verschoben auf 2022.
 :   Sechs Performer\*innen, die eine Vielfalt von Frau*-Sein vereinen sind die Protagonist\*innen des skurrilen Kabaretts *Böse Frauen*. Musikalisch verortet zwischen experimenteller Musik und Punk, ergreifen sie die Bühne spielend und tanzend. 
 
 &nbsp;
