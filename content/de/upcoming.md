@@ -10,6 +10,6 @@ draft: false
 
 &nbsp;
 
-#### **Das Jahr 2023 befindet sich aktuell in der Planung. Zurückliegende Projekte sind unter *Projekte* zu finden.**
+#### **Das Jahr 2023 befindet sich aktuell in der Planung. Zurückliegende Projekte sind unter *[PROJEKTE](https://jasmin-schaedler.com/de/projects/)* zu finden.**
 
 

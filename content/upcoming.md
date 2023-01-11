@@ -9,4 +9,4 @@ draft: false
 
 &nbsp;
 
-#### **2023 is in the making. Check out previous projects under the section *Projects***
+#### **2023 is in the making. Check out previous projects under the section *[PROJECTS](https://jasmin-schaedler.com/projects/)***
