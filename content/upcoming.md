@@ -9,6 +9,4 @@ draft: false
 
 &nbsp;
 
-## **2023 is in the making.** 
-
-### **Check out previous projects under the section [PROJECTS](https://jasmin-schaedler.com/projects/).**
+#### **01.09-31.10.2023, [Baden Württemberg – Catalunya exchange grant](https://hangar.org/en/residencies-internacionals/jasmin-schadler/), Hangar.org, Barcdelona, ES.
