@@ -22,6 +22,10 @@ With WILDE ÖKOLOGIE, die apokalyptischen tänzerin*nen invite you on an excursi
 
 &nbsp;
 
+#### **03.-06.07.2025, [Listening to Cars (working title) – Driving, Dreaming, Drifting](https://www.current-stuttgart.de/), CURRENT Festival, Stuttgart, DE.**
+
+&nbsp;
+
 #### **05.10.2025, [Nachhall](https://www.kug.ac.at/news-detail/johann-joseph-fux-preise-gehen-an-alexander-chernyshkov-und-ui-kyung-lee#:~:text=Als%20Landeskulturpreis%20ist%20er%20nach,erste%20Skizzen%20einer%20Komposition%20einzureichen.), steirischer herbst, Graz, AUT.**
 
 A champer opera für amplified orchestra, four singers and electronics. Inspired by the Korean essay „The Cleaning of the Douses of the Dead“ (죽은 자의 집 청소) by Kim Wan. 
