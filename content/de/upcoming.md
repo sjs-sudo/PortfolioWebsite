@@ -30,12 +30,12 @@ Eine Zukunft, in der der Kollaps des politischen Systems und des Klimas schon ü
 
 #### **05.10.2025, [Nachhall](https://www.kug.ac.at/news-detail/johann-joseph-fux-preise-gehen-an-alexander-chernyshkov-und-ui-kyung-lee#:~:text=Als%20Landeskulturpreis%20ist%20er%20nach,erste%20Skizzen%20einer%20Komposition%20einzureichen.), steirischer herbst, Graz, AUT.**
 
-Eine Kammeroper für verstärktes Ensemble, vier Sänger*innen und Elektronik.
+:   Eine Kammeroper für verstärktes Ensemble, vier Sänger*innen und Elektronik.
 Inspiriert von dem koreanischen Essay „Das Putzen der Häuser der Toten“ (죽은 자의 집 청소) von Kim Wan 
 Komposition: Ui-Kyung Lee
 Libretto: Jasmin Schädler
 
-Komponiert als Gewinner des 9. Johann-Joseph-Fux Opernkompositionswettbewerbs.
+:   Komponiert als Gewinner des 9. Johann-Joseph-Fux Opernkompositionswettbewerbs.
 Uraufgeführt im Oktober 2025 beim musikprotokoll im steirischen herbst.
 
 &nbsp;
