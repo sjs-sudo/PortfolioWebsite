@@ -7,12 +7,12 @@ draft: false
 
 <html>
   <head>
-    <title>With a Human Face? – Aesthetics and Politics of Datafication, MA Thesis Jasmin Schaedler, 2020 Dutch Art Institute</title>
+    <title>Truth-to-Nature</title>
   </head>
   <body>
-    <h3>With a Human Face? – Aesthetics and Politics of Datafication</h3>
-    <h4>Jasmin Schaedler, 2020 Dutch Art Institute</h4>
-    <iframe src="/upcoming/With_a_Human_Face–Aesthetics_and_Politics_of_Datafication_Thesis_Jasmin_Schaedler_2020_DAI.pdf" width="100%" height="1000px">
+    <h3>Truth-to-Nature</h3>
+    <h4>Jasmin Schaedler, 2023, Hangor.Org</h4>
+    <iframe src="/upcoming/park_booklet.pdf" width="100%" height="1000px">
     </iframe>
   </body>
 </html>

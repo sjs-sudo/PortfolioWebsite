@@ -11,12 +11,12 @@ draft: false
 
 #### **06.03.-08.03.2025, [Wilde Ökologie – performatives Live-Hörspiel](https://theaterrampe.de/event/wilde-oekologie/), Theater RAMPE, Stuttgart, DE.**
 
-Autonome anarchische Meisen, sprechende Kühe und traumatisierte Fische treffen sich auf einem ehemaligen Marktplatz, diskutieren über neue Formen des Zusammenlebens und versuchen Kontakt mit den Gesellschaften um sie herum aufzunehmen.
+:   Autonome anarchische Meisen, sprechende Kühe und traumatisierte Fische treffen sich auf einem ehemaligen Marktplatz, diskutieren über neue Formen des Zusammenlebens und versuchen Kontakt mit den Gesellschaften um sie herum aufzunehmen.
 
-Mit WILDE ÖKOLOGIE laden die apokalyptischen tänzerin*nen zu einem Ausflug in eine verschobene Zukunft ein, ausgehend vom Comic “kleiner Auszug aus der Wilden Ökologie” von Alessandro Pignocchi.
+:   Mit WILDE ÖKOLOGIE laden die apokalyptischen tänzerin*nen zu einem Ausflug in eine verschobene Zukunft ein, ausgehend vom Comic “kleiner Auszug aus der Wilden Ökologie” von Alessandro Pignocchi.
 Eine Zukunft, in der der Kollaps des politischen Systems und des Klimas schon überwunden sind und sich eine neue Ordnung breit macht. Spekulativ und getrieben von der Frage, wie eine andere Gesellschaft, ein anderes Zusammenleben aussehen könnten, hören wir Vögel mit Echsen diskutieren und das verseuchte Wasser bringt eine kleine Gruppe Abgesandter dazu, sich auf den Weg zu machen…
 
-WILDE ÖKOLOGIE ist ein Live Hörspiel für das die apokalyptischen tänzerin*nen erneut mit der Bildenden Künstlerin Sophia Sadzakov und dem Dramaturg und Experten für Audiodeskription Peter Luttringer zusammenarbeiten.
+:   WILDE ÖKOLOGIE ist ein Live Hörspiel für das die apokalyptischen tänzerin*nen erneut mit der Bildenden Künstlerin Sophia Sadzakov und dem Dramaturg und Experten für Audiodeskription Peter Luttringer zusammenarbeiten.
 
 
 ![© Dominique Brewing](/upcoming/woe.png)

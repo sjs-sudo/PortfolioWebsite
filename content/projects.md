@@ -4,6 +4,10 @@ date: 2020-04-10T09:29:57+02:00
 draft: false
 
 ---
+## [Projects 2025](https://jasmin-schaedler.com/2025)
+-------------
+## [Projects 2024](https://jasmin-schaedler.com/2024)
+-------------
 ## [Projects 2023](https://jasmin-schaedler.com/2023)
 -------------
 ## [Projects 2022](https://jasmin-schaedler.com/2022)
