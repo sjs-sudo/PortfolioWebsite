@@ -9,11 +9,10 @@ draft: false
 
 Jasmin Schädler
 :   freiberufliche Künstlerin
-:   Seestra0e 65
-:   70174 Stuttgart
+:   Bahnhofstraße 14-18
+:   70372 Stuttgart
 
 &nbsp;
 
 **Kontakt**
-:   Telefon: 0151/ 24175429 
 :   E-Mail: hello[at]jasmin-schaedler.com
