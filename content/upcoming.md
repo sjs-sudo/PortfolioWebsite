@@ -9,16 +9,27 @@ draft: false
 
 &nbsp;
 
-#### **06.03.-08.03.2025, [Wilde Ökologie – performative Live-Radioplay](https://theaterrampe.de/event/wilde-oekologie/), Theater RAMPE, Stuttgart, DE.**
+#### **20.03.-22.03.2025, [Hey SORORA! WIR setzen alles aufs Spiel!](https://theaterrampe.de/event/hey-sophora-wir-setzen-alles-aufs-spiel/), Theater RAMPE, Stuttgart, DE.**
 
-:   WILDE ÖKOLOGIE is a live radio play inspired by the comic “A small excerpt from Wild Ecology” by Alessandro Pignocchi. 
+:   Interactive installations invite the audience to engage. The performance deals with feminicide and combines personal stories, role models and examples of self-empowerment.
 
-:   Autonomous anarchic tits, talking cows and traumatised fish meet in a former marketplace, discuss new ways of living together and try to make contact with the societies around them.
+A project by [LaFuchsiaKollektiva e. V.](https://www.lafuchsiakollektiva.de/)
 
-:   With WILDE ÖKOLOGIE, die apokalyptischen tänzerin*nen invite you on an excursion into a postponed future. A future in which the collapse of the political system and the climate have already been overcome and a new order is spreading. Speculative and driven by the question of what a different society, a different way of living together could look like, we hear birds discussing with lizards and the contaminated water brings a small group of emissaries on their way.
+![© Ronny Schönebaum](/upcoming/lafuchsia.jpg)
+© Ronny Schönebaum
 
-![© Dominique Brewing](/upcoming/woe.png)
-© Dominique Brewing
+&nbsp;
+
+#### **22.03.2025, [How to be a better Machine – Lange Nacht der Museen](https://www.lange-nacht.de/orte/schwabenbraeu-passage/), Schwaben-Bräu-Passage, Stuttgart, DE.**
+
+: Did you ever think it would be easier to be a machine? 
+Did you ever pretend to be a machine to be forgiven?
+
+The interactive web training helps the users on their way to becoming a better machine – presented in an immersive setting. 
+An inversion of the omnipresent anthropomorphization of machines.
+
+![© Jasmin Schädler](/upcoming/htbabm.png)
+© Jasmin Schädler
 
 &nbsp;
 

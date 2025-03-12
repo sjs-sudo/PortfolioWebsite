@@ -9,18 +9,27 @@ draft: false
 
 &nbsp;
 
-#### **06.03.-08.03.2025, [Wilde Ökologie – performatives Live-Hörspiel](https://theaterrampe.de/event/wilde-oekologie/), Theater RAMPE, Stuttgart, DE.**
+#### **20.03.-22.03.2025, [Hey SORORA! WIR setzen alles aufs Spiel!](https://theaterrampe.de/event/hey-sophora-wir-setzen-alles-aufs-spiel/), Theater RAMPE, Stuttgart, DE.**
 
-:   Autonome anarchische Meisen, sprechende Kühe und traumatisierte Fische treffen sich auf einem ehemaligen Marktplatz, diskutieren über neue Formen des Zusammenlebens und versuchen Kontakt mit den Gesellschaften um sie herum aufzunehmen.
+:   Interaktive Installationen laden das Publikum zur Auseinandersetzung ein. Die Performance behandelt Feminizid und verbindet dabei persönliche Geschichten, Rollenbilder und Beispiele der Selbstermächtigung.
 
-:   Mit WILDE ÖKOLOGIE laden die apokalyptischen tänzerin*nen zu einem Ausflug in eine verschobene Zukunft ein, ausgehend vom Comic “kleiner Auszug aus der Wilden Ökologie” von Alessandro Pignocchi.
-Eine Zukunft, in der der Kollaps des politischen Systems und des Klimas schon überwunden sind und sich eine neue Ordnung breit macht. Spekulativ und getrieben von der Frage, wie eine andere Gesellschaft, ein anderes Zusammenleben aussehen könnten, hören wir Vögel mit Echsen diskutieren und das verseuchte Wasser bringt eine kleine Gruppe Abgesandter dazu, sich auf den Weg zu machen…
+Ein Projekt von [LaFuchsiaKollektiva e. V.](https://www.lafuchsiakollektiva.de/)
 
-:   WILDE ÖKOLOGIE ist ein Live Hörspiel für das die apokalyptischen tänzerin*nen erneut mit der Bildenden Künstlerin Sophia Sadzakov und dem Dramaturg und Experten für Audiodeskription Peter Luttringer zusammenarbeiten.
+![© Ronny Schönebaum](/upcoming/lafuchsia.jpg)
+© Ronny Schönebaum
 
+&nbsp;
 
-![© Dominique Brewing](/upcoming/woe.png)
-© Dominique Brewing
+#### **22.03.2025, [How to be a better Machine – Lange Nacht der Museen](https://www.lange-nacht.de/orte/schwabenbraeu-passage/), Schwaben-Bräu-Passage, Stuttgart, DE.**
+
+:   Hast du dich jemals gefragt, ob es einfäche wäre eine Maschine zu sein?
+Hast du jemals so getan, als wärst du eine Maschine, damit dir verziehen wird?
+
+Das interaktive online Training, das den Nutzerinnen dabei helfen soll eine bessere Maschien zu werden, wird in einer immersiven Umgebung präsentiert. 
+Eine Umkehrung der allgegenwärtigen Vermenschlichung von Maschinen. 
+
+![© Jasmin Schädler](/upcoming/htbabm.png)
+© Jasmin Schädler
 
 &nbsp;
 
