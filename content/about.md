@@ -16,4 +16,5 @@ She is a founding member of the performance collective [**die apokalyptischen t√
 The artist speaks from a White, Western, able-bodied and female perspective.
 
 Contact: hello[at]jasmin-schaedler.com
+
 Instagram: [@fraumitlandschaft](https://www.instagram.com/fraumitlandschaft/) 

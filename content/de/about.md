@@ -14,4 +14,5 @@ Sie ist Gründungsmitglied des Performancekollektivs [**die apokalyptischen tän
 Die Künstlerin spricht aus einer *weißen*, Westlichen, nicht-behinderten und weiblichen Perspektive.
 
 Kontakt: hello[at]jasmin-schaedler.com
+
 Instagram: [@fraumitlandschaft](https://www.instagram.com/fraumitlandschaft/) 
